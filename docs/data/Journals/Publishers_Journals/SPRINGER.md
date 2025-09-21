@@ -318,7 +318,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[SPRINGER](https://www.springer.com/)|[Computational Statistics](https://link.springer.com/journal/180)|[Comput. Stat.](https://www.springer.com/journal/180/aims-and-scope)|[CSTAT](https://link.springer.com/journal/180/volumes-and-issues)|1999 -|False|||||[Computational Statistics](https://www.google.com/search?q=Computational+Statistics)|
+|[SPRINGER](https://www.springer.com/)|[Computational Statistics](https://link.springer.com/journal/180)|[Comput. Stat.](https://www.springer.com/journal/180/aims-and-scope)|[CSTAT](https://link.springer.com/journal/180/volumes-and-issues)|1999 -|False||4|Q2|1.6|[Computational Statistics](https://www.google.com/search?q=Computational+Statistics)|
 
 ```mermaid
 ---
@@ -1038,7 +1038,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[SPRINGER](https://www.springer.com/)|[Methodology and Computing in Applied Probability](https://link.springer.com/journal/11009)|[Meth. Comput. Appl. Prob.](https://www.springer.com/journal/11009/aims-and-scope)|[MCAP](https://link.springer.com/journal/11009/volumes-and-issues)|1999 -|False|||||[Applied Probability](https://www.google.com/search?q=Applied+Probability)|
+|[SPRINGER](https://www.springer.com/)|[Methodology and Computing in Applied Probability](https://link.springer.com/journal/11009)|[Meth. Comput. Appl. Prob.](https://www.springer.com/journal/11009/aims-and-scope)|[MCAP](https://link.springer.com/journal/11009/volumes-and-issues)|1999 -|False||4|Q3|0.9|[Applied Probability](https://www.google.com/search?q=Applied+Probability)|
 
 ```mermaid
 ---

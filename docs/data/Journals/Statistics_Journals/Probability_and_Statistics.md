@@ -100,7 +100,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[EUCLID](https://projecteuclid.org)|[Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis)|[Bayesian Anal.](https://projecteuclid.org/journals/bayesian-analysis)|[BA](https://projecteuclid.org/journals/bayesian-analysis/issues)|2006 -|False|||||[Inference](https://www.google.com/search?q=Inference); [Sampling](https://www.google.com/search?q=Sampling)|
+|[EUCLID](https://projecteuclid.org)|[Bayesian Analysis](https://projecteuclid.org/journals/bayesian-analysis)|[Bayesian Anal.](https://projecteuclid.org/journals/bayesian-analysis)|[BA](https://projecteuclid.org/journals/bayesian-analysis/issues)|2006 -|True||1|Q1|3.8|[Inference](https://www.google.com/search?q=Inference); [Sampling](https://www.google.com/search?q=Sampling)|
 
 ## BERNOULLI
 
@@ -514,7 +514,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[SPRINGER](https://www.springer.com/)|[Computational Statistics](https://link.springer.com/journal/180)|[Comput. Stat.](https://www.springer.com/journal/180/aims-and-scope)|[CSTAT](https://link.springer.com/journal/180/volumes-and-issues)|1999 -|False|||||[Computational Statistics](https://www.google.com/search?q=Computational+Statistics)|
+|[SPRINGER](https://www.springer.com/)|[Computational Statistics](https://link.springer.com/journal/180)|[Comput. Stat.](https://www.springer.com/journal/180/aims-and-scope)|[CSTAT](https://link.springer.com/journal/180/volumes-and-issues)|1999 -|False||4|Q2|1.6|[Computational Statistics](https://www.google.com/search?q=Computational+Statistics)|
 
 ```mermaid
 ---
@@ -538,7 +538,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[SPRINGER](https://www.springer.com/)|[Methodology and Computing in Applied Probability](https://link.springer.com/journal/11009)|[Meth. Comput. Appl. Prob.](https://www.springer.com/journal/11009/aims-and-scope)|[MCAP](https://link.springer.com/journal/11009/volumes-and-issues)|1999 -|False|||||[Applied Probability](https://www.google.com/search?q=Applied+Probability)|
+|[SPRINGER](https://www.springer.com/)|[Methodology and Computing in Applied Probability](https://link.springer.com/journal/11009)|[Meth. Comput. Appl. Prob.](https://www.springer.com/journal/11009/aims-and-scope)|[MCAP](https://link.springer.com/journal/11009/volumes-and-issues)|1999 -|False||4|Q3|0.9|[Applied Probability](https://www.google.com/search?q=Applied+Probability)|
 
 ```mermaid
 ---
@@ -634,7 +634,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[TAYLOR](https://www.tandfonline.com/)|[Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20)|[J. Comput. Graph. Stat.](https://www.tandfonline.com/journals/ucgs20/about-this-journal#aims-and-scope)|[JCGS](https://www.tandfonline.com/loi/ucgs20)|1992 -|False|||||[Applied Statistics](https://www.google.com/search?q=Applied+Statistics); [Computational Statistics](https://www.google.com/search?q=Computational+Statistics); [Graphical Statistics](https://www.google.com/search?q=Graphical+Statistics)|
+|[TAYLOR](https://www.tandfonline.com/)|[Journal of Computational and Graphical Statistics](https://www.tandfonline.com/journals/ucgs20)|[J. Comput. Graph. Stat.](https://www.tandfonline.com/journals/ucgs20/about-this-journal#aims-and-scope)|[JCGS](https://www.tandfonline.com/loi/ucgs20)|1992 -|False||3|Q1|2.2|[Applied Statistics](https://www.google.com/search?q=Applied+Statistics); [Computational Statistics](https://www.google.com/search?q=Computational+Statistics); [Graphical Statistics](https://www.google.com/search?q=Graphical+Statistics)|
 
 ## JOAS
 
@@ -664,7 +664,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[TAYLOR](https://www.tandfonline.com/)|[The American Statistician](https://www.tandfonline.com/journals/utas20)|[Am. Stat.](https://www.tandfonline.com/journals/utas20/about-this-journal#aims-and-scope)|[TAS](https://www.tandfonline.com/loi/utas20)|1974 -|False|||||[Applied Statistics](https://www.google.com/search?q=Applied+Statistics)|
+|[TAYLOR](https://www.tandfonline.com/)|[The American Statistician](https://www.tandfonline.com/journals/utas20)|[Am. Stat.](https://www.tandfonline.com/journals/utas20/about-this-journal#aims-and-scope)|[TAS](https://www.tandfonline.com/loi/utas20)|1974 -|False||3|Q1|4.3|[Applied Statistics](https://www.google.com/search?q=Applied+Statistics)|
 
 ## BIMJ
 
