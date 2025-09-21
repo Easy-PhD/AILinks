@@ -1,0 +1,20 @@
+
+- [Journals](data/Journals/Introductions_Journals.md)
+    - [Publishers for Journals](data/Journals/Publishers_Journals.md)
+    - [Categories of Journals](data/Journals/Categories_Journals.md)
+    - [Statistics for Journals](data/Journals/Statistics_Journals.md)
+
+- [Conferences](data/Conferences/Introductions_Conferences.md)
+    - [Publishers for Conferences](data/Conferences/Publishers_Conferences.md)
+    - [Categories of Conferences](data/Conferences/Categories_Conferences.md)
+    - [Statistics for Conferences](data/Conferences/Statistics_Conferences.md)
+
+- [arXiv](https://arxiv.org/)
+    - [Computer Science](https://arxiv.org/list/cs/new)
+    - [cs.LG: Machine Learning](https://arxiv.org/list/cs.LG/recent)
+    - [cs.AI: Artificial Intelligence](https://arxiv.org/list/cs.AI/recent)
+    - [cs.NE: Neural and Evol. Comput.](https://arxiv.org/list/cs.NE/recent)
+    - [Mathematics](https://arxiv.org/list/math/new)
+    - [Math.OC: Optimization and Control](https://arxiv.org/list/math.OC/recent)
+    - [Math.PR: Probability](https://arxiv.org/list/math.PR/recent)
+    - [Statistics](https://arxiv.org/list/stat/new)

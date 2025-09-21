@@ -1,0 +1,327 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>AILinks</title>
+    <!-- <link rel="icon" href="_media/favicon.ico" /> -->
+
+    <meta name="author" content="NextArtifIntell" />
+    <meta name="keywords" content="AI Links" />
+    <meta name="description" content="Artificial Intelligence Links." />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"/>
+
+    <!-- Docsify themes -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+
+    <!-- TOC -->
+    <!-- <link rel="stylesheet" href="https://unpkg.com/docsify-plugin-toc@1.3.1/dist/light.css"> -->
+    <!-- <link rel="stylesheet" href="./_css/light.css"> -->
+
+    <!-- Comment (Valine and Gitalk) -->
+    <!-- Valine -->
+
+    <!-- Gitalk -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css"> -->
+
+    <!-- Notify announcements and updates -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css"/> -->
+
+    <!-- Sidebar collapse -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" /> -->
+    <!-- <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css" /> -->
+
+    <!-- Markmap -->
+    <style>
+      .markmap {
+        width: 100%;
+        height: 500px;
+      }
+    </style>
+
+  </head>
+  <body>
+    <!-- Loading dialog -->
+    <div id="app">Please wait...</div>
+
+    <script>
+      window.$docsify = {
+        // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
+        // Set name and repository link
+        name: "Artificial Intelligence Links",
+        nameLink: {
+          "/": "#/",
+        },
+        repo: "https://github.com/NextArtifIntell/AILinks",
+
+        // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
+        // Load _coverpage.md
+        coverpage: true,
+        // onlyCover: true,
+
+        // Load _navbar.md
+        loadNavbar: true,
+        hideNavbar: false,
+        mergeNavbar: true,
+        // topMargin: 90,
+
+        // Load _sidebar.md
+        loadSidebar: true,
+        hideSidebar: false,
+
+        // Set max level
+        maxLevel: 2,
+        subMaxLevel: 1,
+
+        //
+        auto2top: true,
+
+        // The default value is false
+        executeScript: true,
+
+        // routerMode: 'history',
+
+        // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
+        // HTML
+        plugins: [
+          function (hook, vm) {
+            hook.beforeEach(function (content) {
+              if (vm.route.file.endsWith(".html")) {
+                return fetch(vm.route.file)
+                  .then((res) => res.text())
+                  .catch(() => "Failed to load HTML");
+              }
+              return content;
+            });
+          },
+        ],
+
+        // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
+        // Search
+
+        // Time
+        timeUpdater: {
+          text: "<div style='color:gray;font-size:14px;text-align:right'>Last Modified: {docsify-updated}</div>",
+          formatUpdated: "{HH}:{mm} {DD}/{MM}/{YYYY}",
+          whereToPlace: "top", // "top" or "bottom", default to "bottom"
+        },
+
+        // LaTex - MathJax
+        latex: {
+          inlineMath: [
+            ["$", "$"],
+            // ["\\(", "\\)"],
+          ],
+          displayMath: [
+            ["$$", "$$"],
+            // ["\\[", "\\]"]
+          ],
+          customOptions: {},
+        },
+
+        // Code: Hide codes
+        hideCode: {
+          scroll: true,
+          height: 200,
+        },
+
+        // Alerts
+        "flexible-alerts": {
+          style: "flat", // callout
+        },
+
+        // Count
+        count: {
+          countable: true,
+          fontsize: "0.9em",
+          color: "rgb(90,90,90)",
+          language: "english",
+        },
+
+        // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
+        // TOC
+        // toc: {
+        //   tocMaxLevel: 5,
+        //   target: 'h2, h3, h4, h5, h6',
+        //   ignoreHeaders: ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']
+        // },
+
+        // Comment (Valine and Gitalk)
+        // Valine
+        // Valine: {
+        //   appId: "",
+        //   appKey: "",
+        //   // docPath: 'hash', // default to `hash`, or you can choose `full`,
+        //   lang: "en",
+        //   visitor: true,
+        //   recordIP: true,
+        //   avatar: 'monsterid', // (''/mp/identicon/monsterid/wavatar/robohash/retro/hide)
+        //   requiredFields: ['nick','mail'],
+        //   meta: ['nick','mail','link'],
+        //   serverURLs: 'https://nextartifintell.api.lncldglobal.com',
+        //   path: window.location.pathname
+        // },
+
+        // Gitalk
+
+        // Notify announcements and updates
+        // topBanner: {
+        //   content: '<div style="text-align: center; line-height: 30px; font-weight: bold;">!</div>',
+        //   textColor: "red",
+        // },
+
+        // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
+        // Vue
+        vueGlobalOptions: {
+          methods: {
+            diffDate(inputDate) {
+              // day/month/year
+              const inputDateParts = inputDate.split("-");
+              const targetDate = new Date(
+                inputDateParts[0],
+                inputDateParts[1] - 1,
+                inputDateParts[2],
+              );
+
+              const today = new Date();
+
+              // targetDate.setHours(0, 0, 0, 0);
+              // today.setHours(0, 0, 0, 0);
+
+              const diffDate = today.getTime() - targetDate.getTime();
+              const daysDiffDate = Math.floor(diffDate / (1000 * 60 * 60 * 24));
+
+              // Expired: The deadline has passed.
+
+              if (inputDate == "") {
+                return "";
+              } else {
+                if (daysDiffDate < 0) {
+                  return -daysDiffDate;
+                } else {
+                  return "Expired";
+                }
+              }
+            },
+          },
+        },
+
+        // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
+        // Mermaid
+        mermaidConfig: {
+          querySelector: ".mermaid",
+        },
+
+      }
+    </script>
+
+    <!-- Plugins -->
+    <!-- https://docsify.js.org/#/awesome?id=plugins -->
+    <!-- https://docsify.js.org/#/awesome -->
+
+    <!-- Docsify version -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.js"></script>
+
+    <!-- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- -->
+    <!-- Search -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+
+    <!-- Time -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+
+    <!-- Latex - MathJax -->
+    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+
+    <!-- Latex - Katex -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js"></script> -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script> -->
+
+    <!-- Code: Code render-->
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-nginx.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
+    <!-- Code: Hide code -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-hide-code/dist/docsify-hide-code.min.js"></script>
+    <!-- Code: Copy to clipboard-->
+    <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+
+    <!-- Alerts -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-flexible-alerts"></script>
+
+    <!-- Count -->
+    <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+
+    <!-- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- -->
+    <!-- TOC -->
+    <!-- <script src="//unpkg.com/docsify-plugin-toc@1.3.1/dist/docsify-plugin-toc.min.js"></script> -->
+
+    <!-- Comment (Valine and Gitalk) -->
+    <!-- Valine -->
+    <!-- <script src='//unpkg.com/valine/dist/Valine.min.js'></script> -->
+    <!-- <script src="//unpkg.com/docsify-valine/dist/docsify-valine.min.js"></script> -->
+
+    <!-- Gitalk -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script> -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script> -->
+    <!--         <script>
+            const gitalk = new Gitalk({
+              repo: 'AIwiki',
+              owner: 'NextArtifIntell',
+              admin: ['NextArtifIntell'],
+              distractionFreeMode: false,
+              createIssueManually: false,
+              pagerDirection: 'last',
+              labels: ['Gitalk'],
+              language: 'en',
+              perPage: 10,
+              //
+              clientID: '',
+              clientSecret: '',
+              redirectURL: '',
+              id: location.pathname,
+            })
+
+            gitalk.render('gitalk-container')
+        </script> -->
+
+    <!-- Notify announcements and updates -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script> -->
+
+    <!-- Sidebar collapse -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script> -->
+
+    <!-- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- -->
+    <!-- Emoji -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+
+    <!-- Zoom -->
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+    <!-- Pagination -->
+    <script src="//cdn.jsdelivr.net/npm/docsify-pagination@latest/dist/docsify-pagination.min.js"></script>
+
+    <!-- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- -->
+    <!-- Vue 3.x -->
+    <!-- Production -->
+    <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+    <!-- Development -->
+    <!-- <script src="//cdn.jsdelivr.net/npm/vue@3/dist/vue.global.js"></script> -->
+
+    <!-- Markmap -->
+    <script src="https://cdn.jsdelivr.net/npm/markmap-autoloader@0.15.2"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-markmap.js@1.0.0/docsify-markmap.min.js"></script>
+
+    <!-- Mermaid -->
+    <script type="module">
+      import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+      mermaid.initialize({ startOnLoad: true });
+      window.mermaid = mermaid;
+    </script>
+    <script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
+
+    <!-- Local plugins -->
+
+  </body>
+</html>

@@ -1,0 +1,236 @@
+# Conferences
+
+- The data for TOP, CCF, CAS, JCR, and IF are sourced from [easyScholar](https://www.easyscholar.cc/).
+
+## Artificial Intelligence
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[AAAI](https://www.aaai.org/)|[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/conferences.php)|[Proc. AAAI Conf. Artif. Intell.](https://ojs.aaai.org/index.php/AAAI/about)|[AAAI](https://ojs.aaai.org/index.php/AAAI/issue/archive)|1980 -|True|A|25/07/2025|**{{ diffDate('2025-07-25') }}**|[20/01/2026](https://aaai.org/conference/aaai/aaai-26/)|**{{ diffDate('2026-01-20') }}**|Singapore|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|10/02/2025|**{{ diffDate('2025-02-10') }}**|[21/07/2025](https://www.auai.org/uai2025/)|**{{ diffDate('2025-07-21') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
+|OPEN|European Conference on Artificial Intelligence|Proc. Eur. Conf. Artif. Intell.|ECAI|1974 -|False|B|29/04/2025|**{{ diffDate('2025-04-29') }}**|[25/10/2025](https://ecai2025.org/)|**{{ diffDate('2025-10-25') }}**|Bologna|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True||19/09/2025|**{{ diffDate('2025-09-19') }}**||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|01/01/2026|**{{ diffDate('2026-01-01') }}**||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+|OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|||[08/08/2026](https://www.ijcai.org/future_conferences)|**{{ diffDate('2026-08-08') }}**|Bremen, Germany|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[Advances in Neural Information Processing Systems](https://nips.cc/)|Proc. Adv. Neural Inf. Process. Syst.|[NeurIPS](https://proceedings.neurips.cc/)|1987 -|True|A|11/05/2025|**{{ diffDate('2025-05-11') }}**|[03/12/2025](https://nips.cc/)|**{{ diffDate('2025-12-03') }}**|San Diego, USA|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|[PMLR](https://proceedings.mlr.press/)|[International Conference on Artificial Intelligence and Statistics](https://aistats.org)|Proc. Int. Conf. Artif. Intell. Statist.|[AISTATS](https://proceedings.mlr.press/)|1997 -|False|C|25/09/2025|**{{ diffDate('2025-09-25') }}**|[02/05/2026](https://aistats.org/aistats2026/)|**{{ diffDate('2026-05-02') }}**|Tangier, Morocco|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+
+## Artificial Life
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[MIT](https://direct.mit.edu/)|[Artificial Life Conference](https://direct.mit.edu/isal)|Proc. Int. Conf. Artif. Life|[ALIFE](https://direct.mit.edu/isal)|2018 -|False||04/05/2025|**{{ diffDate('2025-05-04') }}**|[06/10/2025](https://2025.alife.org/)|**{{ diffDate('2025-10-06') }}**|Kyoto,  Japan|[Artificial Life](https://www.google.com/search?q=Artificial+Life)|
+|OPEN|European Conference on Artificial Life|Proc. Eur. Conf. Comput. Vis. Workshops|[ECAL](https://link.springer.com/conference/ecal)|1991 - 2017|False|||||||[Artificial Life](https://www.google.com/search?q=Artificial+Life)|
+
+## Cloud Computing
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM Symposium On Cloud Computing](https://acmsocc.org/)|Proc. Symp. Cloud Comput.|SoCC|2010 -|False|B||||||[Cloud Computing](https://www.google.com/search?q=Cloud+Computing)|
+
+## Combinatorial Optimization
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||19/03/2025|**{{ diffDate('2025-03-19') }}**|[12/08/2025](https://socs25.search-conference.org/)|**{{ diffDate('2025-08-12') }}**|Scotland, United Kingdom|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
+
+## Computation Theory
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM Symposium on Theory of Computing](https://sigact.org/articles/conferences.html)|[Proc. ACM Symp. Theor. Comput.](https://acm-stoc.org/)|[STOC](https://dl.acm.org/conference/stoc)|1969 -|True|A|||[22/06/2026](https://acm-stoc.org/stoc2026/)|**{{ diffDate('2026-06-22') }}**|Salt Lake City, Utah|[Computation Theory](https://www.google.com/search?q=Computation+Theory)|
+
+## Computational Intelligence
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||19/03/2025|**{{ diffDate('2025-03-19') }}**|[12/08/2025](https://socs25.search-conference.org/)|**{{ diffDate('2025-08-12') }}**|Scotland, United Kingdom|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
+|[ACM](https://www.acm.org/)|[ACM Symposium On Cloud Computing](https://acmsocc.org/)|Proc. Symp. Cloud Comput.|SoCC|2010 -|False|B||||||[Cloud Computing](https://www.google.com/search?q=Cloud+Computing)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||||[17/03/2025](https://ieee-ssci.org/)|**{{ diffDate('2025-03-17') }}**|Trondheim, Norway|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE World Congress on Computational Intelligence|Proc. IEEE World Congr. Comput. Intell.|WCCI|2008 -|False||31/01/2025|**{{ diffDate('2025-01-31') }}**|[21/06/2026](https://attend.ieee.org/wcci-2026/)|**{{ diffDate('2026-06-21') }}**|Maastricht, USA|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
+
+## Computer Science
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium on Foundations of Computer Science](https://ieee-focs.org/)|Proc. IEEE Annu. Symp. Found. Comput. Sci.|[FOCS](https://ieeexplore.ieee.org/xpl/conhome/1000292/all-proceedings)|[1960 -](https://dblp.org/db/conf/focs/index.html)|True|A|03/04/2025|**{{ diffDate('2025-04-03') }}**|[14/12/2025](https://focs.computer.org/2025/)|**{{ diffDate('2025-12-14') }}**|Sydney, Australia|[Computer Science](https://www.google.com/search?q=Computer+Science)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Systems, Man and Cybernetics|Proc. IEEE Int. Conf. Syst., Man, Cybern.|[SMC](https://ieeexplore.ieee.org/xpl/conhome/1000738/all-proceedings)|[1989 -](https://dblp.org/db/conf/smc/index.html)|False|C|20/04/2025|**{{ diffDate('2025-04-20') }}**|[08/10/2025](https://www.ieeesmc2025.org/)|**{{ diffDate('2025-10-08') }}**|Vienna, Austria|[Computer Science](https://www.google.com/search?q=Computer+Science)|
+
+## Computer Vision
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|||[06/06/2026](https://cvpr.thecvf.com/Conferences/2026)|**{{ diffDate('2026-06-06') }}**|Denver, CO, USA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference On Computer Vision|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|01/01/2025|**{{ diffDate('2025-01-01') }}**|14/12/2025|**{{ diffDate('2025-12-14') }}**|Shenzhen, China|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
+|[SPRINGER](https://www.springer.com/)|[European Conference on Computer Vision](https://eccv.ecva.net/)|Proc. Eur. Conf. Comput. Vis.|[ECCV](https://link.springer.com/conference/eccv)|[1990 -](https://dblp.org/db/conf/eccv/index.html)|False|B|06/03/2026|**{{ diffDate('2026-03-06') }}**|[08/09/2026](https://eccv.ecva.net/)|**{{ diffDate('2026-09-08') }}**|Malmö, Sweden|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
+
+## Data Engineering
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Data Engineering](https://ieee-icde.org/)|Proc. Int. Conf. Data. Eng.|[ICDE](https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings)|[1984 -](https://dblp.org/db/conf/icde/index.html)|True|A|27/10/2025|**{{ diffDate('2025-10-27') }}**|[04/05/2026](https://icde2026.github.io/)|**{{ diffDate('2026-05-04') }}**|Montréal, Canada|[Data Engineering](https://www.google.com/search?q=Data+Engineering)|
+
+## Data Mining
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Knowledge Discovery And Data Mining](https://kdd.org)|[Proc. ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining](https://kdd.org/about)|[KDD](https://dlnext.acm.org/conference/kdd/proceedings)|1995 -|True|A|01/02/2026|**{{ diffDate('2026-02-01') }}**|[09/08/2026](https://kdd2026.kdd.org/)|**{{ diffDate('2026-08-09') }}**|Jeju, Korea|[Data Mining](https://www.google.com/search?q=Data+Mining)|
+|[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Management of Data](https://sigmod.org/)|[Proc. ACM SIGMOD Int. Conf. Manag. Data](https://sigmod.org/about-sigmod/)|[SIGMOD](https://dl.acm.org/conference/mod/proceedings)|1975 -|True|A|10/10/2025|**{{ diffDate('2025-10-10') }}**|[05/06/2026](https://2026.sigmod.org/)|**{{ diffDate('2026-06-05') }}**|Bengaluru, India|[Data Mining](https://www.google.com/search?q=Data+Mining)|
+
+## Data and Knowledge
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Knowledge Discovery And Data Mining](https://kdd.org)|[Proc. ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining](https://kdd.org/about)|[KDD](https://dlnext.acm.org/conference/kdd/proceedings)|1995 -|True|A|01/02/2026|**{{ diffDate('2026-02-01') }}**|[09/08/2026](https://kdd2026.kdd.org/)|**{{ diffDate('2026-08-09') }}**|Jeju, Korea|[Data Mining](https://www.google.com/search?q=Data+Mining)|
+|[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Management of Data](https://sigmod.org/)|[Proc. ACM SIGMOD Int. Conf. Manag. Data](https://sigmod.org/about-sigmod/)|[SIGMOD](https://dl.acm.org/conference/mod/proceedings)|1975 -|True|A|10/10/2025|**{{ diffDate('2025-10-10') }}**|[05/06/2026](https://2026.sigmod.org/)|**{{ diffDate('2026-06-05') }}**|Bengaluru, India|[Data Mining](https://www.google.com/search?q=Data+Mining)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Data Engineering](https://ieee-icde.org/)|Proc. Int. Conf. Data. Eng.|[ICDE](https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings)|[1984 -](https://dblp.org/db/conf/icde/index.html)|True|A|27/10/2025|**{{ diffDate('2025-10-27') }}**|[04/05/2026](https://icde2026.github.io/)|**{{ diffDate('2026-05-04') }}**|Montréal, Canada|[Data Engineering](https://www.google.com/search?q=Data+Engineering)|
+
+## Discrete Algorithms
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM-SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences-events/siam-conferences)|Proc. ACM-SIAM Symp. Discret. Algo.|SODA|1990 -|True|A|||[11/01/2026](https://www.siam.org/conferences-events/siam-conferences/soda26/)|**{{ diffDate('2026-01-11') }}**|Vancouver, Canada|[Discrete Algorithms](https://www.google.com/search?q=Discrete+Algorithms)|
+
+## Evolutionary Computation
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||02/05/2025|**{{ diffDate('2025-05-02') }}**|[27/08/2025](https://naco.liacs.nl/foga2025/)|**{{ diffDate('2025-08-27') }}**|Leiden, The Netherlands|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False||31/01/2026|**{{ diffDate('2026-01-31') }}**|[21/06/2026](https://attend.ieee.org/wcci-2026/)|**{{ diffDate('2026-06-21') }}**|Maastricht|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Evolving and Adaptive Intelligent Systems|Proc. IEEE Int Conf. Evol. Adapt. Intell. Syst.|[EAIS](https://ieeexplore.ieee.org/xpl/conhome/1800397/all-proceedings)|[2011 -](https://dblp.org/db/conf/eais/index.html)|False|||||||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|OPEN|ANTS International Conference on Swarm Intelligence|ANTS Proc. Int. Conf. Swarm Intell.|ANTS|1998 -|False||10/11/2025|**{{ diffDate('2025-11-10') }}**|[08/06/2026](https://ants2026.org/)|**{{ diffDate('2026-06-08') }}**|Darmstadt, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
+|[SPRINGER](https://www.springer.com/)|International Conference on Evolutionary Multi-Criterion Optimization|Proc. Int. Conf. Evol. Multi-Criterion Optim.|[EMO](https://link.springer.com/conference/emo)|[2001 -](https://dblp.org/db/conf/emo/index.html)|False|||||||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[European Conference on Genetic Programming](https://www.evostar.org/)|Proc. Eur. Conf. Genet. Program.|[EuroGP](https://link.springer.com/conference/eurogp)|[1998 -](https://dblp.org/db/conf/eurogp/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/eurogp/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[International Conference on Applications of Evolutionary Computation](https://www.evostar.org/)|Proc. Int. Conf. Appl. Evol. Comput.|[EvoAPPS](https://link.springer.com/conference/evoapplications)|[2010 -](https://dblp.org/db/conf/evoapps/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evoapps/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[Evolutionary Computation in Combinatorial Optimisation](https://www.evostar.org/)|Proc. Eur. Conf. Evol. Comput. Comb. Optim.|[EvoCOP](https://link.springer.com/conference/evocop)|[2004 -](https://dblp.org/db/conf/evocop/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evocop/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/)|Proc. Int. Conf. Artif. Intell. Music, Sound, Art and Design|[EvoMUSART](https://link.springer.com/conference/evomusart)|[2012 -](https://dblp.org/db/conf/evomusart/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evomusart/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[International Conference on Swarm Intelligence](https://iasei.org/)|Proc. Int. Conf. Swarm Intell.|[ICSI](https://link.springer.com/conference/icsi)|[2010 -](https://dblp.org/db/conf/swarm/index.html)|False||18/04/2025|**{{ diffDate('2025-04-18') }}**|[11/07/2025](https://iasei.org/icsi2025/)|**{{ diffDate('2025-07-11') }}**|Yokohama, Japan|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
+|[SPRINGER](https://www.springer.com/)|[International Joint Conference on Computational Intelligence](https://ijcci.scitevents.org/)|Proc. Int. Joint Conf. Comput. Intell.|[IJCCI](https://link.springer.com/conference/ijcci)|[2009 -](https://dblp.org/db/conf/ijcci/index.html)|False||19/05/2025|**{{ diffDate('2025-05-19') }}**|[22/10/2025](https://ijcci.scitevents.org/)|**{{ diffDate('2025-10-22') }}**|Marbella, Spain|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|Parallel Problem Solving from Nature|Proc. Int. Conf. Parallel Probl. Solving Nat.|[PPSN](https://link.springer.com/conference/ppsn)|[1990 -](https://dblp.org/db/conf/ppsn/index.html)|False|B|28/03/2026|**{{ diffDate('2026-03-28') }}**|[29/08/2026](https://ppsn2026.disi.unitn.it/)|**{{ diffDate('2026-08-29') }}**|Trento, Italy|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+
+## Fuzzy and Uncertainty
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|10/02/2025|**{{ diffDate('2025-02-10') }}**|[21/07/2025](https://www.auai.org/uai2025/)|**{{ diffDate('2025-07-21') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
+
+## Hardware and Software
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[USENIX](https://www.usenix.org/)|[Usenix Symposium On Operating Systems Design And Implementations](https://www.usenix.org)|Proc. USENIX Symp. Oper. Syst. Des. Implement.|[OSDI](https://dl.acm.org/conference/osdi/proceedings)|[1994 -](https://dblp.org/db/conf/osdi/index.html)|True|A|04/12/2025|**{{ diffDate('2025-12-04') }}**|[13/07/2026](https://www.usenix.org/conference/osdi26)|**{{ diffDate('2026-07-13') }}**|Seattle, WA, USA|[Operating Systems](https://www.google.com/search?q=Operating+Systems)|
+
+## Heuristic Search
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||19/03/2025|**{{ diffDate('2025-03-19') }}**|[12/08/2025](https://socs25.search-conference.org/)|**{{ diffDate('2025-08-12') }}**|Scotland, United Kingdom|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
+
+## Intelligent Robots
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)|Proc. IEEE/RSJ Int. Conf. Intell. Robot. Syst.|[IROS](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings)|[1988 -](https://dblp.org/db/conf/iros/index.html)|False|C|02/03/2025|**{{ diffDate('2025-03-02') }}**|[19/10/2025](http://www.iros25.org/)|**{{ diffDate('2025-10-19') }}**|Hangzhou, China|[Intelligent Robots](https://www.google.com/search?q=Intelligent+Robots)|
+
+## Learning Theory
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[PMLR](https://proceedings.mlr.press/)|[International Conference on Algorithmic Learning Theory](http://algorithmiclearningtheory.org/)|Proc. Int. Conf. Algorithmic Learn. Theory|[ALT](https://proceedings.mlr.press/)|1990 -|False|C|02/10/2025|**{{ diffDate('2025-10-02') }}**|[23/02/2026](http://algorithmiclearningtheory.org/alt2026/)|**{{ diffDate('2026-02-23') }}**|Toronto, Canada|[Learning Theory](https://www.google.com/search?q=Learning+Theory)|
+|[PMLR](https://proceedings.mlr.press/)|[Annual Conference On Computational Learning Theory](http://learningtheory.org)|Proc. Conf. Learn. Theory|[COLT](https://dl.acm.org/conference/colt/proceedings)|1988 -|False|B|06/02/2025|**{{ diffDate('2025-02-06') }}**|[30/06/2025](https://learningtheory.org/colt2025/)|**{{ diffDate('2025-06-30') }}**|Lyon, France|[Learning Theory](https://www.google.com/search?q=Learning+Theory)|
+
+## Machine Learning
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Machine Learning and Cybernetics](https://www.icmlc.com/)|Proc. IEEE Int. Conf. Mach. Learn. Cybern.|[ICMLC](https://ieeexplore.ieee.org/xpl/conhome/1000424/all-proceedings)|[2005 -](https://dblp.org/db/conf/icmlc/index.html)|False|||||||[Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|01/01/2026|**{{ diffDate('2026-01-01') }}**||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+
+## Multiagent
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[International Conference on Autonomous Agents and Multiagent Systems](https://www.ifaamas.org/)|[Proc. Int. Conf. Auton. Agents Multiagent Syst.](https://www.ifaamas.org/)|[AAMAS](https://dl.acm.org/conference/aamas/proceedings)|2002 -|False|B|01/10/2025|**{{ diffDate('2025-10-01') }}**|[25/05/2026](https://cyprusconferences.org/aamas2026/)|**{{ diffDate('2026-05-25') }}**|Paphos, Cyprus|[Multiagent Systems](https://www.google.com/search?q=Multiagent+Systems)|
+
+## Multiagent Systems
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[International Conference on Autonomous Agents and Multiagent Systems](https://www.ifaamas.org/)|[Proc. Int. Conf. Auton. Agents Multiagent Syst.](https://www.ifaamas.org/)|[AAMAS](https://dl.acm.org/conference/aamas/proceedings)|2002 -|False|B|01/10/2025|**{{ diffDate('2025-10-01') }}**|[25/05/2026](https://cyprusconferences.org/aamas2026/)|**{{ diffDate('2026-05-25') }}**|Paphos, Cyprus|[Multiagent Systems](https://www.google.com/search?q=Multiagent+Systems)|
+
+## Natural Language Processing
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACL](https://www.aclweb.org/)|[Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/)|Proc. Annu. Meeting Assoc. Comput. Linguistics|[ACL](https://aclanthology.org/venues/acl/)|1962 -|True|A|||[02/07/2026](https://2026.aclweb.org/)|**{{ diffDate('2026-07-02') }}**|San Diego, CA|[Natural Language Processing](https://www.google.com/search?q=Natural+Language+Processing)|
+
+## Neural Networks
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|OPEN|[European Symposium on Artificial Neural Networks](https://www.esann.org/)|Proc. Eur. Symp. Artif. Neural Netw.|ESANN|1993 -|False||19/11/2025|**{{ diffDate('2025-11-19') }}**|[22/04/2026](https://www.esann.org/)|**{{ diffDate('2026-04-22') }}**|Bruges, Belgium|[Neural Networks](https://www.google.com/search?q=Neural+Networks)|
+|[SPRINGER](https://www.springer.com/)|[International Conference on Artificial Neural Networks](https://e-nns.org/)|[Proc. Int. Conf. Artif. Neural Netw. Mach. Learn.](https://e-nns.org/)|[ICANN](https://link.springer.com/conference/icann)|[1991 -](https://dblp.org/db/conf/icann/index.html)|False|C|16/09/2025|**{{ diffDate('2025-09-16') }}**|[27/09/2026](https://waset.org/artificial-neural-networks-conference-in-september-2026-in-hong-kong)|**{{ diffDate('2026-09-27') }}**|Hong Kong, China|[Neural Networks](https://www.google.com/search?q=Neural+Networks)|
+
+## Operating Systems
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[USENIX](https://www.usenix.org/)|[Usenix Symposium On Operating Systems Design And Implementations](https://www.usenix.org)|Proc. USENIX Symp. Oper. Syst. Des. Implement.|[OSDI](https://dl.acm.org/conference/osdi/proceedings)|[1994 -](https://dblp.org/db/conf/osdi/index.html)|True|A|04/12/2025|**{{ diffDate('2025-12-04') }}**|[13/07/2026](https://www.usenix.org/conference/osdi26)|**{{ diffDate('2026-07-13') }}**|Seattle, WA, USA|[Operating Systems](https://www.google.com/search?q=Operating+Systems)|
+
+## Optimization
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM-SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences-events/siam-conferences)|Proc. ACM-SIAM Symp. Discret. Algo.|SODA|1990 -|True|A|||[11/01/2026](https://www.siam.org/conferences-events/siam-conferences/soda26/)|**{{ diffDate('2026-01-11') }}**|Vancouver, Canada|[Discrete Algorithms](https://www.google.com/search?q=Discrete+Algorithms)|
+
+## Pattern Recognition
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|||[06/06/2026](https://cvpr.thecvf.com/Conferences/2026)|**{{ diffDate('2026-06-06') }}**|Denver, CO, USA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
+
+## Planning and Scheduling
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[AAAI](https://www.aaai.org/)|[International Conference on Automated Planning and Scheduling](https://www.icaps-conference.org/)|[Proc. Int. Conf. Automat. Plan. Schedul.](https://www.icaps-conference.org/)|[ICAPS](https://ojs.aaai.org/index.php/ICAPS/issue/archive)|1991 -|False|B|01/12/2025|**{{ diffDate('2025-12-01') }}**|[27/06/2026](https://icaps26.icaps-conference.org/)|**{{ diffDate('2026-06-27') }}**|Dublin, Ireland|[Planning and Scheduling](https://www.google.com/search?q=Planning+and+Scheduling)|
+
+## Robot Learning
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|OPEN|[Conference on Robot Learning](https://www.corl.org/)|Proc. Conf. Robot Learn.|CoRL|2017 -|False||23/04/2025|**{{ diffDate('2025-04-23') }}**|[27/09/2025](https://www.corl.org/)|**{{ diffDate('2025-09-27') }}**|Seoul, Korea|[Robot Learning](https://www.google.com/search?q=Robot+Learning)|
+
+## Robotics and UAV
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Robotics and Automation](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)|Proc. IEEE Int. Conf. Robot. Automat.|[ICRA](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings)|[1984 -](https://dblp.org/db/conf/icra/index.html)|False|B|15/09/2025|**{{ diffDate('2025-09-15') }}**|[01/06/2026](https://2026.ieee-icra.org/)|**{{ diffDate('2026-06-01') }}**|Vienna, Austria|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)|Proc. IEEE/RSJ Int. Conf. Intell. Robot. Syst.|[IROS](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings)|[1988 -](https://dblp.org/db/conf/iros/index.html)|False|C|02/03/2025|**{{ diffDate('2025-03-02') }}**|[19/10/2025](http://www.iros25.org/)|**{{ diffDate('2025-10-19') }}**|Hangzhou, China|[Intelligent Robots](https://www.google.com/search?q=Intelligent+Robots)|
+|OPEN|[Conference on Robot Learning](https://www.corl.org/)|Proc. Conf. Robot Learn.|CoRL|2017 -|False||23/04/2025|**{{ diffDate('2025-04-23') }}**|[27/09/2025](https://www.corl.org/)|**{{ diffDate('2025-09-27') }}**|Seoul, Korea|[Robot Learning](https://www.google.com/search?q=Robot+Learning)|
+|OPEN|[Robotics: Science and Systems Conference](https://roboticsconference.org)|Proc. Robot. Sci. Syst.|RSS|[2005 -](https://dblp.org/db/conf/rss/index.html)|False||||[21/06/2026](https://roboticsconference.org)|**{{ diffDate('2026-06-21') }}**|Sydney|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
+
+## Swarm Intelligence
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|OPEN|ANTS International Conference on Swarm Intelligence|ANTS Proc. Int. Conf. Swarm Intell.|ANTS|1998 -|False||10/11/2025|**{{ diffDate('2025-11-10') }}**|[08/06/2026](https://ants2026.org/)|**{{ diffDate('2026-06-08') }}**|Darmstadt, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
+|[SPRINGER](https://www.springer.com/)|[International Conference on Swarm Intelligence](https://iasei.org/)|Proc. Int. Conf. Swarm Intell.|[ICSI](https://link.springer.com/conference/icsi)|[2010 -](https://dblp.org/db/conf/swarm/index.html)|False||18/04/2025|**{{ diffDate('2025-04-18') }}**|[11/07/2025](https://iasei.org/icsi2025/)|**{{ diffDate('2025-07-11') }}**|Yokohama, Japan|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
+
+## Theory
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[ACM Symposium on Theory of Computing](https://sigact.org/articles/conferences.html)|[Proc. ACM Symp. Theor. Comput.](https://acm-stoc.org/)|[STOC](https://dl.acm.org/conference/stoc)|1969 -|True|A|||[22/06/2026](https://acm-stoc.org/stoc2026/)|**{{ diffDate('2026-06-22') }}**|Salt Lake City, Utah|[Computation Theory](https://www.google.com/search?q=Computation+Theory)|
+|[PMLR](https://proceedings.mlr.press/)|[International Conference on Artificial Intelligence and Statistics](https://aistats.org)|Proc. Int. Conf. Artif. Intell. Statist.|[AISTATS](https://proceedings.mlr.press/)|1997 -|False|C|25/09/2025|**{{ diffDate('2025-09-25') }}**|[02/05/2026](https://aistats.org/aistats2026/)|**{{ diffDate('2026-05-02') }}**|Tangier, Morocco|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|[PMLR](https://proceedings.mlr.press/)|[International Conference on Algorithmic Learning Theory](http://algorithmiclearningtheory.org/)|Proc. Int. Conf. Algorithmic Learn. Theory|[ALT](https://proceedings.mlr.press/)|1990 -|False|C|02/10/2025|**{{ diffDate('2025-10-02') }}**|[23/02/2026](http://algorithmiclearningtheory.org/alt2026/)|**{{ diffDate('2026-02-23') }}**|Toronto, Canada|[Learning Theory](https://www.google.com/search?q=Learning+Theory)|
+|[PMLR](https://proceedings.mlr.press/)|[Annual Conference On Computational Learning Theory](http://learningtheory.org)|Proc. Conf. Learn. Theory|[COLT](https://dl.acm.org/conference/colt/proceedings)|1988 -|False|B|06/02/2025|**{{ diffDate('2025-02-06') }}**|[30/06/2025](https://learningtheory.org/colt2025/)|**{{ diffDate('2025-06-30') }}**|Lyon, France|[Learning Theory](https://www.google.com/search?q=Learning+Theory)|
+
+## Uncertainty
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|10/02/2025|**{{ diffDate('2025-02-10') }}**|[21/07/2025](https://www.auai.org/uai2025/)|**{{ diffDate('2025-07-21') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
+

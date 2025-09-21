@@ -1,0 +1,10 @@
+# ACL
+
+- The data for TOP, CCF, CAS, JCR, and IF are sourced from [easyScholar](https://www.easyscholar.cc/).
+
+## ACL
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[ACL](https://www.aclweb.org/)|[Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/)|Proc. Annu. Meeting Assoc. Comput. Linguistics|[ACL](https://aclanthology.org/venues/acl/)|1962 -|True|A|||[02/07/2026](https://2026.aclweb.org/)|**{{ diffDate('2026-07-02') }}**|San Diego, CA|[Natural Language Processing](https://www.google.com/search?q=Natural+Language+Processing)|
+

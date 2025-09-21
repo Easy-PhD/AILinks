@@ -1,0 +1,54 @@
+[tool.poetry]
+name = "AILinks"
+version = "0.0.1"
+description = "Artificial Intelligence Links"
+license = "GPL-3.0-or-later"
+authors = ["NextAI <nextartifintell@gmail.com>"]
+maintainers = ["NextAI <nextartifintell@gmail.com>"]
+readme = ["README.md"]
+homepage = "https://github.com/NextArtifIntell/AILinks"
+repository = "https://github.com/NextArtifIntell/AILinks"
+documentation = "https://github.com/NextArtifIntell/AILinks"
+keywords = ["Artificial Intelligence"]
+classifiers = ["Topic :: Software Development :: Libraries :: Python Modules"]
+
+[tool.poetry.dependencies]
+python = ">=3.12,<4"
+
+[tool.poetry.group.dev.dependencies]
+
+[tool.pyright]
+venvPath = "."
+venv = ".venv"
+
+[tool.ruff]
+line-length = 120
+indent-width = 4
+
+exclude = [".venv"]
+extend-exclude = ["tests"]
+
+[tool.ruff.lint]
+extend-select = ["I"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+
+[tool.mypy]
+ignore_missing_imports = true
+
+[tool.black]
+line-length = 120
+skip-magic-trailing-comma = true
+
+[tool.isort]
+line_length = 120
+profile = "black"
+include_trailing_comma = true
+
+[tool.pytest]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
