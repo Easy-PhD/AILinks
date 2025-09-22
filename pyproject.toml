@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "AILinks"
-version = "0.0.1"
+version = "0.2.0"
 description = "Artificial Intelligence Links"
 license = "GPL-3.0-or-later"
 authors = ["NextAI <nextartifintell@gmail.com>"]
