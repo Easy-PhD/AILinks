@@ -5,5 +5,5 @@
 - Simple
 - Comprehensive
 
-[GitHub](https://github.com/NextArtifIntell/AILinks)
+[GitHub](https://github.com/Easy-PhD/AILinks)
 [Getting Started](#AILinks)
