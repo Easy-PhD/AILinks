@@ -6,9 +6,9 @@ license = "GPL-3.0-or-later"
 authors = ["NextAI <nextartifintell@gmail.com>"]
 maintainers = ["NextAI <nextartifintell@gmail.com>"]
 readme = ["README.md"]
-homepage = "https://github.com/NextArtifIntell/AILinks"
-repository = "https://github.com/NextArtifIntell/AILinks"
-documentation = "https://github.com/NextArtifIntell/AILinks"
+homepage = "https://github.com/Easy-PhD/AILinks"
+repository = "https://github.com/Easy-PhD/AILinks"
+documentation = "https://github.com/Easy-PhD/AILinks"
 keywords = ["Artificial Intelligence"]
 classifiers = ["Topic :: Software Development :: Libraries :: Python Modules"]
 
