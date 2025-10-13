@@ -40,7 +40,7 @@ IOS Press
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True||19/09/2025|**{{ diffDate('2025-09-19') }}**||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True||19/09/2025|**{{ diffDate('2025-09-19') }}**|[23/04/2026](https://iclr.cc/)|**{{ diffDate('2026-04-23') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
@@ -64,7 +64,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|01/01/2026|**{{ diffDate('2026-01-01') }}**||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|30/01/2026|**{{ diffDate('2026-01-30') }}**||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ```mermaid
 ---
@@ -88,7 +88,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|||[08/08/2026](https://www.ijcai.org/future_conferences)|**{{ diffDate('2026-08-08') }}**|Bremen, Germany|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|31/01/2026|**{{ diffDate('2026-01-31') }}**|[15/08/2026](https://2026.ijcai.org/)|**{{ diffDate('2026-08-15') }}**|Bremen, Germany|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
@@ -136,7 +136,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[Robotics: Science and Systems Conference](https://roboticsconference.org)|Proc. Robot. Sci. Syst.|RSS|[2005 -](https://dblp.org/db/conf/rss/index.html)|False||||[21/06/2026](https://roboticsconference.org)|**{{ diffDate('2026-06-21') }}**|Sydney|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
+|OPEN|[Robotics: Science and Systems Conference](https://roboticsconference.org)|Proc. Robot. Sci. Syst.|RSS|[2005 -](https://dblp.org/db/conf/rss/index.html)|False||||[13/07/2026](https://roboticsconference.org)|**{{ diffDate('2026-07-13') }}**|Sydney, Australia|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
 
 ```mermaid
 ---
