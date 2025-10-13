@@ -10,7 +10,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[13/07/2026](https://gecco-2026.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -82,7 +82,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Evolving and Adaptive Intelligent Systems|Proc. IEEE Int Conf. Evol. Adapt. Intell. Syst.|[EAIS](https://ieeexplore.ieee.org/xpl/conhome/1800397/all-proceedings)|[2011 -](https://dblp.org/db/conf/eais/index.html)|False|||||||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Evolving and Adaptive Intelligent Systems|Proc. IEEE Int Conf. Evol. Adapt. Intell. Syst.|[EAIS](https://ieeexplore.ieee.org/xpl/conhome/1800397/all-proceedings)|[2011 -](https://dblp.org/db/conf/eais/index.html)|False||15/03/2026|**{{ diffDate('2026-03-15') }}**|[21/09/2026](https://ai.dii.unipi.it/eais2026/)|**{{ diffDate('2026-09-21') }}**|Pisa, Italy|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---

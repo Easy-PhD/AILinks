@@ -4,7 +4,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|||[06/06/2026](https://cvpr.thecvf.com/Conferences/2026)|**{{ diffDate('2026-06-06') }}**|Denver, CO, USA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|06/11/2025|**{{ diffDate('2025-11-06') }}**|[03/06/2026](https://cvpr.thecvf.com/Conferences/2026)|**{{ diffDate('2026-06-03') }}**|Denver Convention Center, Denver, CO, USA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
 
 ```mermaid
 ---
@@ -28,7 +28,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference On Computer Vision|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|01/01/2025|**{{ diffDate('2025-01-01') }}**|14/12/2025|**{{ diffDate('2025-12-14') }}**|Shenzhen, China|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference On Computer Vision](https://iccv.thecvf.com/)|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|03/03/2025|**{{ diffDate('2025-03-03') }}**|[19/10/2025](https://iccv.thecvf.com/)|**{{ diffDate('2025-10-19') }}**|Honolulu, Hawai'i|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
 
 ```mermaid
 ---

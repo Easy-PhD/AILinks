@@ -30,7 +30,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|||[06/06/2026](https://cvpr.thecvf.com/Conferences/2026)|**{{ diffDate('2026-06-06') }}**|Denver, CO, USA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|06/11/2025|**{{ diffDate('2025-11-06') }}**|[03/06/2026](https://cvpr.thecvf.com/Conferences/2026)|**{{ diffDate('2026-06-03') }}**|Denver Convention Center, Denver, CO, USA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
 
 ```mermaid
 ---
@@ -54,7 +54,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Evolving and Adaptive Intelligent Systems|Proc. IEEE Int Conf. Evol. Adapt. Intell. Syst.|[EAIS](https://ieeexplore.ieee.org/xpl/conhome/1800397/all-proceedings)|[2011 -](https://dblp.org/db/conf/eais/index.html)|False|||||||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Evolving and Adaptive Intelligent Systems|Proc. IEEE Int Conf. Evol. Adapt. Intell. Syst.|[EAIS](https://ieeexplore.ieee.org/xpl/conhome/1800397/all-proceedings)|[2011 -](https://dblp.org/db/conf/eais/index.html)|False||15/03/2026|**{{ diffDate('2026-03-15') }}**|[21/09/2026](https://ai.dii.unipi.it/eais2026/)|**{{ diffDate('2026-09-21') }}**|Pisa, Italy|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -102,7 +102,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference On Computer Vision|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|01/01/2025|**{{ diffDate('2025-01-01') }}**|14/12/2025|**{{ diffDate('2025-12-14') }}**|Shenzhen, China|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference On Computer Vision](https://iccv.thecvf.com/)|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|03/03/2025|**{{ diffDate('2025-03-03') }}**|[19/10/2025](https://iccv.thecvf.com/)|**{{ diffDate('2025-10-19') }}**|Honolulu, Hawai'i|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
 
 ```mermaid
 ---
@@ -188,10 +188,10 @@ config:
 ---
 xychart-beta
     title "ICRA"
-    x-axis [2000, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [641, 677, 689, 714, 768, 680, 807, 664, 712, 874, 1017, 836, 873, 1037, 940, 693, 795, 817, 1024, 1073, 1386, 929, 1341, 1760]
-    line [641, 677, 689, 714, 768, 680, 807, 664, 712, 874, 1017, 836, 873, 1037, 940, 693, 795, 817, 1024, 1073, 1386, 929, 1341, 1760]
+    bar [641, 677, 689, 714, 768, 680, 807, 664, 712, 874, 1017, 836, 873, 1037, 940, 693, 795, 817, 1024, 1073, 1386, 929, 1341, 1760, 1603]
+    line [641, 677, 689, 714, 768, 680, 807, 664, 712, 874, 1017, 836, 873, 1037, 940, 693, 795, 817, 1024, 1073, 1386, 929, 1341, 1760, 1603]
 ```
 
 ## IROS
@@ -238,8 +238,8 @@ xychart-beta
     title "SMC"
     x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
     y-axis "Number of Papers"
-    bar [677, 613, 200, 820, 1093, 650, 916, 688, 640, 894, 671, 599, 583, 833, 719, 548, 785, 647, 717, 716, 689, 545, 537, 809, 811]
-    line [677, 613, 200, 820, 1093, 650, 916, 688, 640, 894, 671, 599, 583, 833, 719, 548, 785, 647, 717, 716, 689, 545, 537, 809, 811]
+    bar [677, 613, 200, 820, 1093, 650, 916, 688, 640, 894, 671, 599, 583, 833, 719, 548, 785, 647, 717, 716, 689, 545, 537, 809, 822]
+    line [677, 613, 200, 820, 1093, 650, 916, 688, 640, 894, 671, 599, 583, 833, 719, 548, 785, 647, 717, 716, 689, 545, 537, 809, 822]
 ```
 
 ## SSCI
