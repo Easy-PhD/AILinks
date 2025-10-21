@@ -24,11 +24,11 @@ xychart-beta
     line [75, 68, 72, 69, 79, 56, 64, 68, 65, 65, 71, 64, 61, 62, 65, 66, 89, 71, 68, 49, 51, 46, 50, 52, 44]
 ```
 
-## CPC
+## CPAC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[CAMBRIDGE](https://www.cambridge.org/universitypress)|[Combinatorics, Probability & Computing](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing)|[Comb. Probab. Comput.](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/information/about-this-journal)|[CPC](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/all-issues)|1992 -|False||3|Q2|0.9|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics)|
+|[CAMBRIDGE](https://www.cambridge.org/universitypress)|[Combinatorics, Probability & Computing](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing)|[Comb. Probab. Comput.](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/information/about-this-journal)|[CPAC](https://www.cambridge.org/core/journals/combinatorics-probability-and-computing/all-issues)|1992 -|False||3|Q2|0.9|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics)|
 
 ```mermaid
 ---
@@ -41,7 +41,7 @@ config:
             titleColor: "#ff0000"
 ---
 xychart-beta
-    title "CPC"
+    title "CPAC"
     x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
     y-axis "Number of Papers"
     bar [42, 35, 46, 46, 54, 52, 61, 57, 56, 63, 52, 71, 63, 62, 65, 44, 50, 53, 50, 49, 48, 52, 49, 50, 45]
