@@ -1394,3 +1394,9 @@ xychart-beta
     line [37, 66, 69, 77, 68, 99, 139, 122, 121, 104, 135, 179, 170, 178, 188, 268, 348, 539, 599, 901, 1200, 950, 882, 1164, 796]
 ```
 
+## SUPERC
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
+|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
+|[SPRINGER](https://www.springer.com/)|[The Journal of Supercomputing](https://link.springer.com/journal/11227)|[J. Supercomput.](https://www.springer.com/journal/11227/aims-and-scope)|[SUPERC](https://link.springer.com/journal/11227/volumes-and-issues)|1987 -|False|C|4|Q2|2.6||
+

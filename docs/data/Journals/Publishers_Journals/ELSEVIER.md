@@ -98,6 +98,12 @@ xychart-beta
     line [21, 16, 43, 44, 33, 24, 112, 162, 143, 124, 549, 344, 408, 497, 654, 596, 622, 712, 696, 832, 1054, 909, 950, 1277]
 ```
 
+## AUTCON
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
+|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
+|[ELSEVIER](https://www.sciencedirect.com/)|[Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction)|[Autom. Construct.](https://www.sciencedirect.com/journal/automation-in-construction/about/aims-and-scope)|[AUTCON](https://www.sciencedirect.com/journal/automation-in-construction/issues)|1992 -|True||1|Q1|12.7|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+
 ## AUTOM
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|

@@ -54,7 +54,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)|[IEEE Commun. Lett.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=4234)|[LCOMM](https://ieeexplore.ieee.org/xpl/issues?punumber=4234&isnumber=11199985)|1997 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5534602)||||||
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)|[IEEE Commun. Lett.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=4234)|[LCOMM](https://ieeexplore.ieee.org/xpl/issues?punumber=4234&isnumber=11199985)|1997 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5534602)||3|Q2|4.2||
 
 ## MC
 
@@ -345,7 +345,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)|[IEEE Trans. Autom. Sci. Eng.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8856)|[TASE](https://ieeexplore.ieee.org/xpl/issues?punumber=8856&isnumber=10839176)|2004 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4358066)||||||
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)|[IEEE Trans. Autom. Sci. Eng.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8856)|[TASE](https://ieeexplore.ieee.org/xpl/issues?punumber=8856&isnumber=10839176)|2004 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4358066)|B|2|Q1|7.0||
 
 ## TASLP
 
@@ -610,7 +610,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)|[IEEE Trans. Emerg. Topics Comput. Intell.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7433297)|[TETCI](https://ieeexplore.ieee.org/xpl/issues?punumber=7433297&isnumber=11177632)|2017 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7777658)||||||
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)|[IEEE Trans. Emerg. Topics Comput. Intell.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7433297)|[TETCI](https://ieeexplore.ieee.org/xpl/issues?punumber=7433297&isnumber=11177632)|2017 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7777658)||2|Q1|6.6||
 
 ## TEVC
 
@@ -1096,7 +1096,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)|[IEEE Trans. Serv. Comput.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=4629386)|[TSC](https://ieeexplore.ieee.org/xpl/issues?punumber=4629386&isnumber=11198176)|2008 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4629387)||||||
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)|[IEEE Trans. Serv. Comput.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=4629386)|[TSC](https://ieeexplore.ieee.org/xpl/issues?punumber=4629386&isnumber=11198176)|2008 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4629387)|A|2|Q1|5.7||
 
 ## TSMC
 
