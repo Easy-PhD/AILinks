@@ -56,6 +56,24 @@ xychart-beta
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Communications Letters](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4234)|[IEEE Commun. Lett.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=4234)|[LCOMM](https://ieeexplore.ieee.org/xpl/issues?punumber=4234&isnumber=11199985)|1997 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5534602)||3|Q2|4.2||
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "LCOMM"
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [132, 161, 181, 195, 234, 377, 304, 337, 294, 326, 390, 467, 544, 592, 546, 586, 640, 698, 665, 586, 642, 836, 627, 693, 587]
+    line [132, 161, 181, 195, 234, 377, 304, 337, 294, 326, 390, 467, 544, 592, 546, 586, 640, 698, 665, 586, 642, 836, 627, 693, 587]
+```
+
 ## MC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
