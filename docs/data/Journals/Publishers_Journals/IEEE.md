@@ -347,6 +347,24 @@ xychart-beta
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Automation Science and Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8856)|[IEEE Trans. Autom. Sci. Eng.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=8856)|[TASE](https://ieeexplore.ieee.org/xpl/issues?punumber=8856&isnumber=10839176)|2004 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4358066)|B|2|Q1|7.0||
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "TASE"
+    x-axis [2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [17, 48, 45, 57, 64, 78, 97, 83, 81, 119, 127, 142, 150, 166, 169, 167, 178, 182, 299, 215, 592]
+    line [17, 48, 45, 57, 64, 78, 97, 83, 81, 119, 127, 142, 150, 166, 169, 167, 178, 182, 299, 215, 592]
+```
+
 ## TASLP
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
@@ -611,6 +629,24 @@ xychart-beta
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Emerging Topics in Computational Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7433297)|[IEEE Trans. Emerg. Topics Comput. Intell.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7433297)|[TETCI](https://ieeexplore.ieee.org/xpl/issues?punumber=7433297&isnumber=11177632)|2017 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7777658)||2|Q1|6.6||
+
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "TETCI"
+    x-axis [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [41, 46, 49, 75, 86, 126, 137, 320]
+    line [41, 46, 49, 75, 86, 126, 137, 320]
+```
 
 ## TEVC
 
@@ -1097,6 +1133,24 @@ xychart-beta
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Services Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4629386)|[IEEE Trans. Serv. Comput.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=4629386)|[TSC](https://ieeexplore.ieee.org/xpl/issues?punumber=4629386&isnumber=11198176)|2008 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4629387)|A|2|Q1|5.7||
+
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "TSC"
+    x-axis [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [21, 29, 29, 30, 46, 48, 57, 76, 82, 78, 77, 76, 92, 154, 271, 336, 323]
+    line [21, 29, 29, 30, 46, 48, 57, 76, 82, 78, 77, 76, 92, 154, 271, 336, 323]
+```
 
 ## TSMC
 

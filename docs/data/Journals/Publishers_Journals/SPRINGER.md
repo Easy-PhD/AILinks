@@ -1400,3 +1400,21 @@ xychart-beta
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[SPRINGER](https://www.springer.com/)|[The Journal of Supercomputing](https://link.springer.com/journal/11227)|[J. Supercomput.](https://www.springer.com/journal/11227/aims-and-scope)|[SUPERC](https://link.springer.com/journal/11227/volumes-and-issues)|1987 -|False|C|4|Q2|2.6||
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "SUPERC"
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [45, 47, 50, 57, 72, 64, 72, 70, 65, 63, 81, 109, 233, 291, 283, 214, 245, 274, 331, 369, 513, 545, 719, 807, 889]
+    line [45, 47, 50, 57, 72, 64, 72, 70, 65, 63, 81, 109, 233, 291, 283, 214, 245, 274, 331, 369, 513, 545, 719, 807, 889]
+```
+
