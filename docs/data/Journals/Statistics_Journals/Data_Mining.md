@@ -52,7 +52,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)|[IEEE Trans. Big Data](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6687317)|[TBD](https://ieeexplore.ieee.org/xpl/issues?punumber=6687317&isnumber=10595994)|2015 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7153538)|||||[Data Mining](https://www.google.com/search?q=Data+Mining)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)|[IEEE Trans. Big Data](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6687317)|[TBD](https://ieeexplore.ieee.org/xpl/issues?punumber=6687317&isnumber=10595994)|2015 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7153538)|||||[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ```mermaid
 ---

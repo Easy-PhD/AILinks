@@ -126,11 +126,11 @@ Publisher: Institute of Mathematical Statistics
 
 Before 2002 there are no PDF copies of the Bulletin.
 
-## STATSCI
+## STATS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IMS](https://imstat.org/)|[Statistical Science](https://imstat.org/journals-and-publications/statistical-science/)|[Stat. Sci.](https://imstat.org/journals-and-publications/statistical-science/)|[STATSCI](https://projecteuclid.org/journals/statistical-science/issues)|1986 -|True||1|Q1|5.2|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics)|
+|[IMS](https://imstat.org/)|[Statistical Science](https://imstat.org/journals-and-publications/statistical-science/)|[Stat. Sci.](https://imstat.org/journals-and-publications/statistical-science/)|[STATS](https://projecteuclid.org/journals/statistical-science/issues)|1986 -|True||1|Q1|5.2|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics)|
 
 ### Remarks
 

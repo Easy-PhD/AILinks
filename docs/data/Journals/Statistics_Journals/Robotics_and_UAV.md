@@ -76,7 +76,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Robotics Automation Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)|[IEEE Robot. Autom. Mag.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=100)|[MRA](https://ieeexplore.ieee.org/xpl/issues?punumber=100&isnumber=10931179)|1994 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4600619)||3|Q1|7.3|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Robotics and Automation Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)|[IEEE Robot. Autom. Mag.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=100)|[MRA](https://ieeexplore.ieee.org/xpl/issues?punumber=100&isnumber=10931179)|1994 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4600619)||3|Q1|7.3|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
 
 ```mermaid
 ---

@@ -181,7 +181,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Robotics Automation Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)|[IEEE Robot. Autom. Mag.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=100)|[MRA](https://ieeexplore.ieee.org/xpl/issues?punumber=100&isnumber=10931179)|1994 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4600619)||3|Q1|7.3|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Robotics and Automation Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=100)|[IEEE Robot. Autom. Mag.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=100)|[MRA](https://ieeexplore.ieee.org/xpl/issues?punumber=100&isnumber=10931179)|1994 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4600619)||3|Q1|7.3|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
 
 ```mermaid
 ---
@@ -437,7 +437,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)|[IEEE Trans. Big Data](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6687317)|[TBD](https://ieeexplore.ieee.org/xpl/issues?punumber=6687317&isnumber=10595994)|2015 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7153538)|||||[Data Mining](https://www.google.com/search?q=Data+Mining)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)|[IEEE Trans. Big Data](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6687317)|[TBD](https://ieeexplore.ieee.org/xpl/issues?punumber=6687317&isnumber=10595994)|2015 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7153538)|||||[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ```mermaid
 ---
@@ -849,7 +849,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)|[IEEE Trans. Intell. Intell. Veh.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274857)|[TIV](https://ieeexplore.ieee.org/xpl/issues?punumber=7274857&isnumber=10631803)|2016 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7448921)||1|Q1|13.1|[Vehicles and Vehicular Systems](https://www.google.com/search?q=Vehicles+and+Vehicular+Systems)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Intelligent Vehicles](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857)|[IEEE Trans. Intell. Veh.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=7274857)|[TIV](https://ieeexplore.ieee.org/xpl/issues?punumber=7274857&isnumber=10631803)|2016 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7448921)||1|Q1|13.1|[Vehicles and Vehicular Systems](https://www.google.com/search?q=Vehicles+and+Vehicular+Systems)|
 
 ```mermaid
 ---
@@ -1174,7 +1174,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)|[IEEE Trans. Syst., Man, Cybern. Syst.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021)|[TSMC](https://ieeexplore.ieee.org/xpl/issues?punumber=6221021&isnumber=10223304)|2013 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6376248)|B|1|||[Cybernetics](https://www.google.com/search?q=Cybernetics)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)|[IEEE Trans. Syst., Man, Cybern., Syst.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021)|[TSMC](https://ieeexplore.ieee.org/xpl/issues?punumber=6221021&isnumber=10223304)|2013 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6376248)|B|1|||[Cybernetics](https://www.google.com/search?q=Cybernetics)|
 
 ```mermaid
 ---
@@ -1303,7 +1303,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Vehicular Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10785)|[IEEE Trans. Intell. Veh. Commun.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=10785)|TVC|1963 - 1966|False|||||[Vehicles and Vehicular Systems](https://www.google.com/search?q=Vehicles+and+Vehicular+Systems)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Vehicular Communications](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10785)|[IEEE Trans. Veh. Commun.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=10785)|TVC|1963 - 1966|False|||||[Vehicles and Vehicular Systems](https://www.google.com/search?q=Vehicles+and+Vehicular+Systems)|
 
 ### Remarks
 
@@ -1341,7 +1341,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)|[IEEE Trans. Intell. Veh. Technol.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=25)|[TVT](https://ieeexplore.ieee.org/xpl/issues?punumber=25&isnumber=10606142)|1967 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4356907)||2|Q1|7.4|[Vehicles and Vehicular Systems](https://www.google.com/search?q=Vehicles+and+Vehicular+Systems)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Vehicular Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25)|[IEEE Trans. Veh. Technol.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=25)|[TVT](https://ieeexplore.ieee.org/xpl/issues?punumber=25&isnumber=10606142)|1967 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4356907)||2|Q1|7.4|[Vehicles and Vehicular Systems](https://www.google.com/search?q=Vehicles+and+Vehicular+Systems)|
 
 ### Remarks
 

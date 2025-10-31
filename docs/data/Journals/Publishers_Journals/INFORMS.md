@@ -150,7 +150,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[INFORMS](https://pubsonline.informs.org/)|[INFORMS Transactions on Education](https://pubsonline.informs.org/journal/ited)|[Inf. Syst. Res.](https://pubsonline.informs.org/page/ited/editorial-statement)|[ITED](https://pubsonline.informs.org/loi/ited)|2000 -|False||||||
+|[INFORMS](https://pubsonline.informs.org/)|[INFORMS Transactions on Education](https://pubsonline.informs.org/journal/ited)|[INFORMS Trans. Edu.](https://pubsonline.informs.org/page/ited/editorial-statement)|[ITED](https://pubsonline.informs.org/loi/ited)|2000 -|False||||||
 
 ```mermaid
 ---

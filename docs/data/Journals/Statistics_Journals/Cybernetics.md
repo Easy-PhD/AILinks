@@ -28,7 +28,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)|[IEEE Trans. Syst., Man, Cybern. Syst.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021)|[TSMC](https://ieeexplore.ieee.org/xpl/issues?punumber=6221021&isnumber=10223304)|2013 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6376248)|B|1|||[Cybernetics](https://www.google.com/search?q=Cybernetics)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)|[IEEE Trans. Syst., Man, Cybern., Syst.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6221021)|[TSMC](https://ieeexplore.ieee.org/xpl/issues?punumber=6221021&isnumber=10223304)|2013 -|[True](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=6376248)|B|1|||[Cybernetics](https://www.google.com/search?q=Cybernetics)|
 
 ```mermaid
 ---
