@@ -232,7 +232,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[WS](https://worldscientific.com/)|[World Scientific Annual Review of Artificial Intelligence](https://worldscientific.com/worldscinet/wsarai)|[World Sci. Ann. Rev. Artif. Intell.](https://worldscientific.com/page/wsarai/aims-scope)|[WSARAI](https://worldscientific.com/loi/wsarai)|2023 -|False|||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|[WS](https://worldscientific.com/)|[World Scientific Annual Review of Artificial Intelligence](https://worldscientific.com/worldscinet/wsarai)|[World Sci. Annu. Rev. Artif. Intell.](https://worldscientific.com/page/wsarai/aims-scope)|[WSARAI](https://worldscientific.com/loi/wsarai)|2023 -|False|||||[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
