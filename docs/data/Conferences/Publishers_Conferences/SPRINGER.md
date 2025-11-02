@@ -110,7 +110,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|[Evolutionary Computation in Combinatorial Optimisation](https://www.evostar.org/)|Proc. Eur. Conf. Evol. Comput. Comb. Optim.|[EvoCOP](https://link.springer.com/conference/evocop)|[2004 -](https://dblp.org/db/conf/evocop/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evocop/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[Evolutionary Computation in Combinatorial Optimization](https://www.evostar.org/)|Proc. Eur. Conf. Evol. Comput. Comb. Optim.|[EvoCOP](https://link.springer.com/conference/evocop)|[2004 -](https://dblp.org/db/conf/evocop/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evocop/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ### Remarks
 
