@@ -216,24 +216,6 @@ xychart-beta
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[International Joint Conference on Computational Intelligence](https://ijcci.scitevents.org/)|Proc. Int. Joint Conf. Comput. Intell.|[IJCCI](https://link.springer.com/conference/ijcci)|[2009 -](https://dblp.org/db/conf/ijcci/index.html)|False||19/05/2025|**{{ diffDate('2025-05-19') }}**|[22/10/2025](https://ijcci.scitevents.org/)|**{{ diffDate('2025-10-22') }}**|Marbella, Spain|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
-```mermaid
----
-config:
-    xyChart:
-        width: 1200
-        height: 600
-    themeVariables:
-        xyChart:
-            titleColor: "#ff0000"
----
-xychart-beta
-    title "IJCCI"
-    x-axis [2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
-    y-axis "Number of Papers"
-    bar [65, 23, 73, 32, 63, 51, 4, 3, 140, 59]
-    line [65, 23, 73, 32, 63, 51, 4, 3, 140, 59]
-```
-
 ## PPSN
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|

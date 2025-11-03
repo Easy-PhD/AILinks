@@ -104,6 +104,24 @@ xychart-beta
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[ELSEVIER](https://www.sciencedirect.com/)|[Automation in Construction](https://www.sciencedirect.com/journal/automation-in-construction)|[Autom. Construct.](https://www.sciencedirect.com/journal/automation-in-construction/about/aims-and-scope)|[AUTCON](https://www.sciencedirect.com/journal/automation-in-construction/issues)|1992 -|True||1|Q1|12.7|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "AUTCON"
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    y-axis "Number of Papers"
+    bar [57, 54, 64, 71, 66, 74, 77, 96, 105, 105, 116, 129, 165, 196, 177, 155, 191, 188, 313, 283, 365, 465, 552, 429, 626]
+    line [57, 54, 64, 71, 66, 74, 77, 96, 105, 105, 116, 129, 165, 196, 177, 155, 191, 188, 313, 283, 365, 465, 552, 429, 626]
+```
+
 ## AUTOM
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
