@@ -30,7 +30,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[ACS](https://www.acs.org/)|[Journal of the American Chemical Society](https://pubs.acs.org/journal/jacsat)|[J. Am. Chem. Soc.](https://pubs.acs.org/page/jacsat/about.html)|[JACS](https://pubs.acs.org/loi/jacsat)|1879 -|True||1|Q1|15.5|[Chemistry](https://www.google.com/search?q=Chemistry)|
+|[ACS](https://www.acs.org/)|[Journal of the American Chemical Society](https://pubs.acs.org/journal/jacsat)|[J. Am. Chem. Soc.](https://pubs.acs.org/page/jacsat/about.html)|[JACS](https://pubs.acs.org/loi/jacsat)|1879 -|True||1|Q1|15.6|[Chemistry](https://www.google.com/search?q=Chemistry)|
 
 ```mermaid
 ---

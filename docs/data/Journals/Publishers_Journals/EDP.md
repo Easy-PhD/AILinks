@@ -6,7 +6,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[EDP](https://www.edpsciences.org/)|[Astronomy & Astrophysics](https://www.aanda.org/)|[Astron. Astrophys.](https://www.aanda.org/about-aa/aims-and-scope)|[AANDA](https://www.aanda.org/component/issues)|1980 -|False||2|Q1|6.1|[Astrophysics](https://www.google.com/search?q=Astrophysics)|
+|[EDP](https://www.edpsciences.org/)|[Astronomy & Astrophysics](https://www.aanda.org/)|[Astron. Astrophys.](https://www.aanda.org/about-aa/aims-and-scope)|[AANDA](https://www.aanda.org/component/issues)|1980 -|False||2|Q1|6.2|[Astrophysics](https://www.google.com/search?q=Astrophysics)|
 
 ## BCAS
 

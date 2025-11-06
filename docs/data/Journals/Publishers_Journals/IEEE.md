@@ -78,7 +78,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[Computer](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2)|[Computer](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=2)|[MC](https://ieeexplore.ieee.org/xpl/issues?punumber=2&isnumber=10574404)|1970 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5306045)||4|Q2|2.3|[Hardware and Software](https://www.google.com/search?q=Hardware+and+Software)|
+|[IEEE](https://ieeexplore.ieee.org/)|[Computer](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2)|[Computer](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=2)|[MC](https://ieeexplore.ieee.org/xpl/issues?punumber=2&isnumber=10574404)|1970 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5306045)||4|Q2|2.6|[Hardware and Software](https://www.google.com/search?q=Hardware+and+Software)|
 
 ```mermaid
 ---
@@ -205,7 +205,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Signal Processing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79)|[IEEE Signal Process. Mag.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=79)|[MSP](https://ieeexplore.ieee.org/xpl/issues?punumber=79&isnumber=10934750)|1991 -|False||2|Q1|16.7|[Signal Processing](https://www.google.com/search?q=Signal+Processing)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Signal Processing Magazine](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79)|[IEEE Signal Process. Mag.](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=79)|[MSP](https://ieeexplore.ieee.org/xpl/issues?punumber=79&isnumber=10934750)|1991 -|False||2|Q1|17.1|[Signal Processing](https://www.google.com/search?q=Signal+Processing)|
 
 ### Remarks
 
@@ -437,7 +437,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)|[IEEE Trans. Big Data](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6687317)|[TBD](https://ieeexplore.ieee.org/xpl/issues?punumber=6687317&isnumber=10595994)|2015 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7153538)|||||[Data Mining](https://www.google.com/search?q=Data+Mining)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Big Data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6687317)|[IEEE Trans. Big Data](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6687317)|[TBD](https://ieeexplore.ieee.org/xpl/issues?punumber=6687317&isnumber=10595994)|2015 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=7153538)|C|2|Q1|5.7|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ```mermaid
 ---

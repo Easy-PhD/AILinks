@@ -126,7 +126,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[NATURE](https://www.nature.com/)|[Nature Chemistry](https://www.nature.com/nchem)|[Nat. Chem.](https://www.nature.com/nchem/aims)|[NCHEM](https://www.nature.com/nchem/volumes)|2009 -|True||1|Q1|22.6|[Chemistry](https://www.google.com/search?q=Chemistry)|
+|[NATURE](https://www.nature.com/)|[Nature Chemistry](https://www.nature.com/nchem)|[Nat. Chem.](https://www.nature.com/nchem/aims)|[NCHEM](https://www.nature.com/nchem/volumes)|2009 -|True||1|Q1|22.8|[Chemistry](https://www.google.com/search?q=Chemistry)|
 
 ```mermaid
 ---

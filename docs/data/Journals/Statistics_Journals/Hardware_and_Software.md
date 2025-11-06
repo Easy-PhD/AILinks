@@ -100,7 +100,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[Computer](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2)|[Computer](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=2)|[MC](https://ieeexplore.ieee.org/xpl/issues?punumber=2&isnumber=10574404)|1970 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5306045)||4|Q2|2.3|[Hardware and Software](https://www.google.com/search?q=Hardware+and+Software)|
+|[IEEE](https://ieeexplore.ieee.org/)|[Computer](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=2)|[Computer](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=2)|[MC](https://ieeexplore.ieee.org/xpl/issues?punumber=2&isnumber=10574404)|1970 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=5306045)||4|Q2|2.6|[Hardware and Software](https://www.google.com/search?q=Hardware+and+Software)|
 
 ```mermaid
 ---
