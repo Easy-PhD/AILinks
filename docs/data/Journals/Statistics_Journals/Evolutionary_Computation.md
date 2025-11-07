@@ -28,7 +28,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[ELSEVIER](https://www.sciencedirect.com/)|[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)|[Appl. Soft. Comput.](https://www.sciencedirect.com/journal/applied-soft-computing/about/aims-and-scope)|[ASOC](https://www.sciencedirect.com/journal/applied-soft-computing/issues)|2001 -|True||2|Q1|6.9|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ELSEVIER](https://www.sciencedirect.com/)|[Applied Soft Computing](https://www.sciencedirect.com/journal/applied-soft-computing)|[Appl. Soft Comput.](https://www.sciencedirect.com/journal/applied-soft-computing/about/aims-and-scope)|[ASOC](https://www.sciencedirect.com/journal/applied-soft-computing/issues)|2001 -|True||2|Q1|6.9|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
