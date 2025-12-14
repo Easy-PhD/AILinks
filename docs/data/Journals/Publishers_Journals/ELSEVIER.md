@@ -1064,6 +1064,12 @@ xychart-beta
     line [115, 96, 93, 85, 97, 92, 97, 98, 103, 185, 119, 129, 158, 168, 163, 168, 150, 147, 149, 189, 254, 138, 199, 180, 170]
 ```
 
+## SPL
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
+|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
+|[ELSEVIER](https://www.sciencedirect.com/)|[Statistics and Probability Letters](https://www.sciencedirect.com/journal/statistics-and-probability-letters)|[Stat. Probab. Lett.](https://www.sciencedirect.com/journal/statistics-and-probability-letters/about/aims-and-scope)|[SPL](https://www.sciencedirect.com/journal/statistics-and-probability-letters/issues)|1982 -|False||4|Q4|0.8|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics)|
+
 ## SWEVO
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
