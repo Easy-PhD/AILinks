@@ -52,7 +52,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[SIAM](https://epubs.siam.org)|[SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/journal/sjuqa3)|[SIAM/ASA J. Uncertainty Quantification](https://epubs.siam.org/journal/juq/about)|[JUQ](https://epubs.siam.org/loi/sjuqa3)|2013 -|False||3|Q2|2.2|[Fuzzy and Uncertainty](https://www.google.com/search?q=Fuzzy+and+Uncertainty)|
+|[SIAM](https://epubs.siam.org)|[SIAM/ASA Journal on Uncertainty Quantification](https://epubs.siam.org/journal/sjuqa3)|[SIAM/ASA J. Uncert. Quantif.](https://epubs.siam.org/journal/juq/about)|[JUQ](https://epubs.siam.org/loi/sjuqa3)|2013 -|False||3|Q2|2.2|[Fuzzy and Uncertainty](https://www.google.com/search?q=Fuzzy+and+Uncertainty)|
 
 ```mermaid
 ---
