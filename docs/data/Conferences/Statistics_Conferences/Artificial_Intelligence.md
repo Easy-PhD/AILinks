@@ -28,7 +28,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|10/02/2025|**{{ diffDate('2025-02-10') }}**|[21/07/2025](https://www.auai.org/uai2025/)|**{{ diffDate('2025-07-21') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
+|[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|25/02/2026|**{{ diffDate('2026-02-25') }}**|[17/08/2025](https://www.auai.org/uai2026/)|**{{ diffDate('2025-08-17') }}**|Amsterdam, Netherlands|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
 
 ## ECAI
 
@@ -112,7 +112,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[Advances in Neural Information Processing Systems](https://nips.cc/)|Proc. Adv. Neural Inf. Process. Syst.|[NeurIPS](https://proceedings.neurips.cc/)|1987 -|True|A|11/05/2025|**{{ diffDate('2025-05-11') }}**|[03/12/2025](https://nips.cc/)|**{{ diffDate('2025-12-03') }}**|San Diego, USA|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[Advances in Neural Information Processing Systems](https://nips.cc/)|Proc. Adv. Neural Inf. Process. Syst.|[NeurIPS](https://proceedings.neurips.cc/)|1987 -|True|A|||||Sydney, Australia.|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
