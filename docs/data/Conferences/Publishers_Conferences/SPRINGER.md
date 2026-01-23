@@ -214,7 +214,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|[International Joint Conference on Computational Intelligence](https://ijcci.scitevents.org/)|Proc. Int. Joint Conf. Comput. Intell.|[IJCCI](https://link.springer.com/conference/ijcci)|[2009 -](https://dblp.org/db/conf/ijcci/index.html)|False||19/05/2025|**{{ diffDate('2025-05-19') }}**|[22/10/2025](https://ijcci.scitevents.org/)|**{{ diffDate('2025-10-22') }}**|Marbella, Spain|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[International Joint Conference on Computational Intelligence](https://ijcci.scitevents.org/)|Proc. Int. Joint Conf. Comput. Intell.|[IJCCI](https://link.springer.com/conference/ijcci)|[2009 -](https://dblp.org/db/conf/ijcci/index.html)|False||19/05/2026|**{{ diffDate('2026-05-19') }}**|[28/10/2026](https://ijcci.scitevents.org/)|**{{ diffDate('2026-10-28') }}**|Angers, Frence|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ## PPSN
 

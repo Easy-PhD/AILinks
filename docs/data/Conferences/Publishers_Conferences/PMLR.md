@@ -58,7 +58,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[PMLR](https://proceedings.mlr.press/)|[Annual Conference On Computational Learning Theory](http://learningtheory.org)|Proc. Conf. Learn. Theory|[COLT](https://dl.acm.org/conference/colt/proceedings)|1988 -|False|B|06/02/2025|**{{ diffDate('2025-02-06') }}**|[30/06/2025](https://learningtheory.org/colt2025/)|**{{ diffDate('2025-06-30') }}**|Lyon, France|[Learning Theory](https://www.google.com/search?q=Learning+Theory)|
+|[PMLR](https://proceedings.mlr.press/)|[Annual Conference On Computational Learning Theory](http://learningtheory.org)|Proc. Conf. Learn. Theory|[COLT](https://dl.acm.org/conference/colt/proceedings)|1988 -|False|B|04/02/2025|**{{ diffDate('2025-02-04') }}**|[29/06/2025](https://learningtheory.org/colt2026/)|**{{ diffDate('2025-06-29') }}**|San Diego, California, USA|[Learning Theory](https://www.google.com/search?q=Learning+Theory)|
 
 ```mermaid
 ---
