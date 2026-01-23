@@ -18,7 +18,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|European Conference on Artificial Intelligence|Proc. Eur. Conf. Artif. Intell.|ECAI|1974 -|False|B|29/04/2025|**{{ diffDate('2025-04-29') }}**|[25/10/2025](https://ecai2025.org/)|**{{ diffDate('2025-10-25') }}**|Bologna|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|European Conference on Artificial Intelligence|Proc. Eur. Conf. Artif. Intell.|ECAI|1974 -|False|B|12/01/2026|**{{ diffDate('2026-01-12') }}**|[15/08/2026](https://2026.ijcai.org/)|**{{ diffDate('2026-08-15') }}**|Bremen, Germany|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ### Remarks
 
@@ -88,7 +88,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|31/01/2026|**{{ diffDate('2026-01-31') }}**|[15/08/2026](https://2026.ijcai.org/)|**{{ diffDate('2026-08-15') }}**|Bremen, Germany|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|12/01/2026|**{{ diffDate('2026-01-12') }}**|[15/08/2026](https://2026.ijcai.org/)|**{{ diffDate('2026-08-15') }}**|Bremen, Germany|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
