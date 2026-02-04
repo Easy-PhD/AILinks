@@ -54,3 +54,21 @@ xychart-beta
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Transactions on Audio, Speech, and Language Processing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155)|[IEEE Trans. Audio Speech Lang. Process.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10723155)|[TASLPRO](https://ieeexplore.ieee.org/xpl/issues?punumber=10723155&isnumber=10835842)|2025 -|[False](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10818373)|B||||[Natural Language Processing](https://www.google.com/search?q=Natural+Language+Processing)|
 
+```mermaid
+---
+config:
+    xyChart:
+        width: 1200
+        height: 600
+    themeVariables:
+        xyChart:
+            titleColor: "#ff0000"
+---
+xychart-beta
+    title "TASLPRO"
+    x-axis [2025]
+    y-axis "Number of Papers"
+    bar [377]
+    line [377]
+```
+

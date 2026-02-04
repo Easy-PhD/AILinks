@@ -28,7 +28,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IMS](https://imstat.org/)|[Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability)|[Ann. Appl. Probab.](https://imstat.org/journals-and-publications/annals-of-applied-probability)|[AOAP](https://projecteuclid.org/journals/annals-of-applied-probability/issues)|1991 -|False||2|Q1|2.1|[Applied Probability](https://www.google.com/search?q=Applied+Probability); [MCMC](https://www.google.com/search?q=MCMC); [Variational Inference](https://www.google.com/search?q=Variational+Inference)|
+|[EUCLID](https://projecteuclid.org)|[Annals of Applied Probability](https://imstat.org/journals-and-publications/annals-of-applied-probability)|[Ann. Appl. Probab.](https://imstat.org/journals-and-publications/annals-of-applied-probability)|[AOAP](https://projecteuclid.org/journals/annals-of-applied-probability/issues)|1991 -|False||2|Q1|2.1|[Applied Probability](https://www.google.com/search?q=Applied+Probability); [MCMC](https://www.google.com/search?q=MCMC); [Variational Inference](https://www.google.com/search?q=Variational+Inference)|
 
 ```mermaid
 ---
@@ -90,9 +90,9 @@ config:
 ---
 xychart-beta
     title "MCAP"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [23, 24, 24, 24, 25, 27, 29, 33, 29, 37, 45, 42, 60, 48, 57, 62, 63, 61, 72, 74, 73, 75, 138, 94, 58]
-    line [23, 24, 24, 24, 25, 27, 29, 33, 29, 37, 45, 42, 60, 48, 57, 62, 63, 61, 72, 74, 73, 75, 138, 94, 58]
+    bar [23, 24, 24, 24, 25, 27, 29, 33, 29, 37, 45, 42, 60, 48, 57, 62, 63, 61, 72, 74, 73, 75, 138, 94, 58, 101]
+    line [23, 24, 24, 24, 25, 27, 29, 33, 29, 37, 45, 42, 60, 48, 57, 62, 63, 61, 72, 74, 73, 75, 138, 94, 58, 101]
 ```
 

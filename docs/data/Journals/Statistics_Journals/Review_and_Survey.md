@@ -42,10 +42,10 @@ config:
 ---
 xychart-beta
     title "CHRE"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [172, 157, 157, 160, 189, 140, 197, 179, 168, 186, 207, 211, 184, 221, 293, 276, 297, 278, 242, 228, 260, 279, 313, 262, 231]
-    line [172, 157, 157, 160, 189, 140, 197, 179, 168, 186, 207, 211, 184, 221, 293, 276, 297, 278, 242, 228, 260, 279, 313, 262, 231]
+    bar [172, 157, 157, 160, 189, 140, 197, 179, 168, 186, 207, 211, 184, 221, 293, 276, 297, 278, 242, 228, 260, 279, 313, 262, 231, 204]
+    line [172, 157, 157, 160, 189, 140, 197, 179, 168, 186, 207, 211, 184, 221, 293, 276, 297, 278, 242, 228, 260, 279, 313, 262, 231, 204]
 ```
 
 ## PRA
@@ -144,17 +144,17 @@ xychart-beta
     line [32, 33, 34, 40, 23, 39, 34, 36, 39, 49, 77, 44, 46, 46, 39, 38, 46, 43, 43, 41, 34, 33, 38, 36, 35]
 ```
 
-## PS
+## PSURV
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[EUCLID](https://projecteuclid.org)|[Probability Surveys](https://imstat.org/journals-and-publications/probability-surveys/)|[Probab. Surv.](https://imstat.org/journals-and-publications/probability-surveys/)|[PS](https://projecteuclid.org/journals/probability-surveys/issues)|2004 -|False||2||2.0|[Probability](https://www.google.com/search?q=Probability); [Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics)|
+|[EUCLID](https://projecteuclid.org)|[Probability Surveys](https://imstat.org/journals-and-publications/probability-surveys/)|[Probab. Surv.](https://imstat.org/journals-and-publications/probability-surveys/)|[PSURV](https://projecteuclid.org/journals/probability-surveys/issues)|2004 -|False||2||2.0|[Probability](https://www.google.com/search?q=Probability); [Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics)|
 
-## SS
+## SSURV
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[EUCLID](https://projecteuclid.org)|[Statistics Surveys](https://imstat.org/journals-and-publications/statistics-surveys/)|[Stat. Surv.](https://imstat.org/journals-and-publications/statistics-surveys/)|[SS](https://projecteuclid.org/journals/statistics-surveys/issues)|2007 -|False||2||9.4|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics); [Statistics](https://www.google.com/search?q=Statistics)|
+|[EUCLID](https://projecteuclid.org)|[Statistics Surveys](https://imstat.org/journals-and-publications/statistics-surveys/)|[Stat. Surv.](https://imstat.org/journals-and-publications/statistics-surveys/)|[SSURV](https://projecteuclid.org/journals/statistics-surveys/issues)|2007 -|False||2||9.4|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics); [Statistics](https://www.google.com/search?q=Statistics)|
 
 ## SIREV
 
@@ -198,10 +198,10 @@ config:
 ---
 xychart-beta
     title "AIR"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [29, 40, 33, 41, 46, 47, 47, 37, 22, 14, 34, 36, 40, 42, 83, 49, 38, 38, 44, 109, 177, 155, 161, 449, 349]
-    line [29, 40, 33, 41, 46, 47, 47, 37, 22, 14, 34, 36, 40, 42, 83, 49, 38, 38, 44, 109, 177, 155, 161, 449, 349]
+    bar [29, 40, 33, 41, 46, 47, 47, 37, 22, 14, 34, 36, 40, 42, 83, 49, 38, 38, 44, 109, 177, 155, 161, 449, 349, 408]
+    line [29, 40, 33, 41, 46, 47, 47, 37, 22, 14, 34, 36, 40, 42, 83, 49, 38, 38, 44, 109, 177, 155, 161, 449, 349, 408]
 ```
 
 ## INSR
@@ -222,10 +222,10 @@ config:
 ---
 xychart-beta
     title "INSR"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28]
-    line [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28]
+    bar [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28, 24]
+    line [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28, 24]
 ```
 
 ## WSARAI

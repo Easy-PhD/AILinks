@@ -1,16 +1,10 @@
 # Statistics
 
-## SS
-
-|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
-|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[EUCLID](https://projecteuclid.org)|[Statistics Surveys](https://imstat.org/journals-and-publications/statistics-surveys/)|[Stat. Surv.](https://imstat.org/journals-and-publications/statistics-surveys/)|[SS](https://projecteuclid.org/journals/statistics-surveys/issues)|2007 -|False||2||9.4|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics); [Statistics](https://www.google.com/search?q=Statistics)|
-
 ## AOS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
 |-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
-|[IMS](https://imstat.org/)|[Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics)|[Ann. Stat.](https://imstat.org/journals-and-publications/annals-of-statistics)|[AOS](https://projecteuclid.org/journals/annals-of-statistics/issues)|1973 -|True||1|Q1|5.9|[Statistics](https://www.google.com/search?q=Statistics)|
+|[EUCLID](https://projecteuclid.org)|[Annals of Statistics](https://imstat.org/journals-and-publications/annals-of-statistics)|[Ann. Stat.](https://imstat.org/journals-and-publications/annals-of-statistics)|[AOS](https://projecteuclid.org/journals/annals-of-statistics/issues)|1973 -|True||1|Q1|5.9|[Statistics](https://www.google.com/search?q=Statistics)|
 
 ```mermaid
 ---
@@ -30,6 +24,12 @@ xychart-beta
     line [75, 67, 68, 80, 100, 98, 120, 112, 107, 147, 126, 119, 118, 111, 92, 99, 99, 90, 127, 121, 155, 151, 142, 97, 115]
 ```
 
+## SSURV
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
+|-         |-            |-         |-             |-          |-        |-  |-  |-  |- |-              |
+|[EUCLID](https://projecteuclid.org)|[Statistics Surveys](https://imstat.org/journals-and-publications/statistics-surveys/)|[Stat. Surv.](https://imstat.org/journals-and-publications/statistics-surveys/)|[SSURV](https://projecteuclid.org/journals/statistics-surveys/issues)|2007 -|False||2||9.4|[Probability and Statistics](https://www.google.com/search?q=Probability+and+Statistics); [Statistics](https://www.google.com/search?q=Statistics)|
+
 ## AISM
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Issues|Period/DBLP|Top/Early|CCF|CAS|JCR|IF|Keywords/Google|
@@ -48,10 +48,10 @@ config:
 ---
 xychart-beta
     title "AISM"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [55, 61, 68, 57, 47, 47, 49, 41, 44, 46, 54, 59, 58, 43, 40, 42, 45, 49, 47, 48, 58, 47, 47, 39, 33]
-    line [55, 61, 68, 57, 47, 47, 49, 41, 44, 46, 54, 59, 58, 43, 40, 42, 45, 49, 47, 48, 58, 47, 47, 39, 33]
+    bar [55, 61, 68, 57, 47, 47, 49, 41, 44, 46, 54, 59, 58, 43, 40, 42, 45, 49, 47, 48, 58, 47, 47, 39, 33, 30]
+    line [55, 61, 68, 57, 47, 47, 49, 41, 44, 46, 54, 59, 58, 43, 40, 42, 45, 49, 47, 48, 58, 47, 47, 39, 33, 30]
 ```
 
 ## CMS
@@ -72,10 +72,10 @@ config:
 ---
 xychart-beta
     title "CMS"
-    x-axis [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [25, 22, 25, 24, 24, 24, 24, 24, 24, 34, 35, 32]
-    line [25, 22, 25, 24, 24, 24, 24, 24, 24, 34, 35, 32]
+    bar [25, 22, 25, 24, 24, 24, 24, 24, 24, 34, 35, 32, 48]
+    line [25, 22, 25, 24, 24, 24, 24, 24, 24, 34, 35, 32, 48]
 ```
 
 ## INSR
@@ -96,10 +96,10 @@ config:
 ---
 xychart-beta
     title "INSR"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28]
-    line [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28]
+    bar [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28, 24]
+    line [27, 29, 35, 41, 27, 59, 25, 90, 99, 97, 103, 111, 114, 106, 81, 64, 57, 48, 41, 57, 75, 48, 45, 29, 28, 24]
 ```
 
 ## SIM
@@ -120,10 +120,10 @@ config:
 ---
 xychart-beta
     title "SIM"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [311, 340, 303, 296, 307, 324, 326, 396, 470, 283, 310, 319, 359, 404, 387, 289, 390, 343, 323, 389, 308, 426, 350, 310, 349]
-    line [311, 340, 303, 296, 307, 324, 326, 396, 470, 283, 310, 319, 359, 404, 387, 289, 390, 343, 323, 389, 308, 426, 350, 310, 349]
+    bar [311, 340, 303, 296, 307, 324, 326, 396, 470, 283, 310, 319, 359, 404, 387, 289, 390, 343, 323, 389, 308, 426, 350, 310, 349, 392]
+    line [311, 340, 303, 296, 307, 324, 326, 396, 470, 283, 310, 319, 359, 404, 387, 289, 390, 343, 323, 389, 308, 426, 350, 310, 349, 392]
 ```
 
 ## SJOS
@@ -144,9 +144,9 @@ config:
 ---
 xychart-beta
     title "SJOS"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [48, 45, 48, 52, 45, 43, 52, 48, 45, 46, 43, 48, 51, 48, 72, 69, 78, 47, 46, 56, 52, 55, 66, 79, 68]
-    line [48, 45, 48, 52, 45, 43, 52, 48, 45, 46, 43, 48, 51, 48, 72, 69, 78, 47, 46, 56, 52, 55, 66, 79, 68]
+    bar [48, 45, 48, 52, 45, 43, 52, 48, 45, 46, 43, 48, 51, 48, 72, 69, 78, 47, 46, 56, 52, 55, 66, 79, 68, 76]
+    line [48, 45, 48, 52, 45, 43, 52, 48, 45, 46, 43, 48, 51, 48, 72, 69, 78, 47, 46, 56, 52, 55, 66, 79, 68, 76]
 ```
 
