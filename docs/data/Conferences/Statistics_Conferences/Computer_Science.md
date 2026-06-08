@@ -4,7 +4,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium on Foundations of Computer Science](https://ieee-focs.org/)|Proc. IEEE Annu. Symp. Found. Comput. Sci.|[FOCS](https://ieeexplore.ieee.org/xpl/conhome/1000292/all-proceedings)|[1960 -](https://dblp.org/db/conf/focs/index.html)|True|A|03/04/2025|**{{ diffDate('2025-04-03') }}**|[14/12/2025](https://focs.computer.org/2025/)|**{{ diffDate('2025-12-14') }}**|Sydney, Australia|[Computer Science](https://www.google.com/search?q=Computer+Science)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium on Foundations of Computer Science](https://ieee-focs.org/)|Proc. IEEE Annu. Symp. Found. Comput. Sci.|[FOCS](https://ieeexplore.ieee.org/xpl/conhome/1000292/all-proceedings)|[1960 -](https://dblp.org/db/conf/focs/index.html)|True|A|01/04/2026|**{{ diffDate('2026-04-01') }}**|[08/11/2026](https://focs.computer.org/2026/)|**{{ diffDate('2026-11-08') }}**|Sydney, Australia|[Computer Science](https://www.google.com/search?q=Computer+Science)|
 
 ```mermaid
 ---
