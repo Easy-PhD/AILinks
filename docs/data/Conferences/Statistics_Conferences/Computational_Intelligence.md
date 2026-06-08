@@ -34,7 +34,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||||[17/03/2025](https://ieee-ssci.org/)|**{{ diffDate('2025-03-17') }}**|Trondheim, Norway|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||10/08/2026|**{{ diffDate('2026-08-10') }}**|[14/02/2027](https://ieee-ssci.org/)|**{{ diffDate('2027-02-14') }}**|Queensland, Australia|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
 
 ```mermaid
 ---

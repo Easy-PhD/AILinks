@@ -102,7 +102,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference On Computer Vision](https://iccv.thecvf.com/)|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|03/03/2025|**{{ diffDate('2025-03-03') }}**|[19/10/2025](https://iccv.thecvf.com/)|**{{ diffDate('2025-10-19') }}**|Honolulu, Hawai'i|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference On Computer Vision](https://iccv.thecvf.com/)|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|||[01/10/2027](https://iccv.thecvf.com/)|**{{ diffDate('2027-10-01') }}**|Hong Kong, China|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
 
 ```mermaid
 ---
@@ -246,7 +246,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||||[17/03/2025](https://ieee-ssci.org/)|**{{ diffDate('2025-03-17') }}**|Trondheim, Norway|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||10/08/2026|**{{ diffDate('2026-08-10') }}**|[14/02/2027](https://ieee-ssci.org/)|**{{ diffDate('2027-02-14') }}**|Queensland, Australia|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
 
 ```mermaid
 ---
