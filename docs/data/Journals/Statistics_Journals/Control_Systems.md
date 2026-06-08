@@ -18,9 +18,9 @@ config:
 ---
 xychart-beta
     title "FCTEG"
-    x-axis [2020, 2021, 2022, 2023, 2024]
+    x-axis [2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [1, 15, 37, 16, 6]
-    line [1, 15, 37, 16, 6]
+    bar [1, 15, 37, 16, 6, 1]
+    line [1, 15, 37, 16, 6, 1]
 ```
 

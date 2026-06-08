@@ -18,10 +18,10 @@ config:
 ---
 xychart-beta
     title "TELO"
-    x-axis [2021, 2022, 2023, 2024]
+    x-axis [2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [17, 11, 16, 27]
-    line [17, 11, 16, 27]
+    bar [17, 11, 16, 27, 29]
+    line [17, 11, 16, 27, 29]
 ```
 
 ## AML
@@ -114,10 +114,10 @@ config:
 ---
 xychart-beta
     title "IJAIML"
-    x-axis [2019, 2020, 2021, 2022, 2024]
+    x-axis [2019, 2020, 2021, 2022, 2024, 2025]
     y-axis "Number of Papers"
-    bar [8, 10, 19, 4, 2]
-    line [8, 10, 19, 4, 2]
+    bar [8, 10, 19, 4, 2, 3]
+    line [8, 10, 19, 4, 2, 3]
 ```
 
 ## MLST

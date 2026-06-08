@@ -18,9 +18,9 @@ config:
 ---
 xychart-beta
     title "ICOMPUT"
-    x-axis [2022, 2023, 2024]
+    x-axis [2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [20, 35, 34]
-    line [20, 35, 34]
+    bar [20, 35, 34, 35]
+    line [20, 35, 34, 35]
 ```
 

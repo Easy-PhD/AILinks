@@ -18,10 +18,10 @@ config:
 ---
 xychart-beta
     title "SIMODS"
-    x-axis [2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [33, 45, 52, 58, 46, 47]
-    line [33, 45, 52, 58, 46, 47]
+    bar [33, 45, 52, 58, 46, 47, 74]
+    line [33, 45, 52, 58, 46, 47, 74]
 ```
 
 ## IJDSMS
@@ -42,9 +42,9 @@ config:
 ---
 xychart-beta
     title "IJDSMS"
-    x-axis [2023, 2024]
+    x-axis [2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [8, 9]
-    line [8, 9]
+    bar [8, 9, 7]
+    line [8, 9, 7]
 ```
 

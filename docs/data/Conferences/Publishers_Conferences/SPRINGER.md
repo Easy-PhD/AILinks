@@ -30,7 +30,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|International Conference on Evolutionary Multi-Criterion Optimization|Proc. Int. Conf. Evol. Multi-Criterion Optim.|[EMO](https://link.springer.com/conference/emo)|[2001 -](https://dblp.org/db/conf/emo/index.html)|False|||||||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|International Conference on Evolutionary Multi-Criterion Optimization|Proc. Int. Conf. Evol. Multi-Criterion Optim.|[EMO](https://link.springer.com/conference/emo)|[2001 -](https://dblp.org/db/conf/emo/index.html)|False||28/09/2026|**{{ diffDate('2026-09-28') }}**|[05/04/2027](https://www.emo2027.org/)|**{{ diffDate('2027-04-05') }}**|Exeter, UK|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -54,7 +54,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|[European Conference on Genetic Programming](https://www.evostar.org/)|Proc. Eur. Conf. Genet. Program.|[EuroGP](https://link.springer.com/conference/eurogp)|[1998 -](https://dblp.org/db/conf/eurogp/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/eurogp/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[European Conference on Genetic Programming](https://www.evostar.org/)|Proc. Eur. Conf. Genet. Program.|[EuroGP](https://link.springer.com/conference/eurogp)|[1998 -](https://dblp.org/db/conf/eurogp/index.html)|False||||[31/03/2027](https://www.evostar.org/2027/eurogp/)|**{{ diffDate('2027-03-31') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ### Remarks
 
@@ -82,7 +82,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|[International Conference on Applications of Evolutionary Computation](https://www.evostar.org/)|Proc. Int. Conf. Appl. Evol. Comput.|[EvoAPPS](https://link.springer.com/conference/evoapplications)|[2010 -](https://dblp.org/db/conf/evoapps/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evoapps/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[International Conference on Applications of Evolutionary Computation](https://www.evostar.org/)|Proc. Int. Conf. Appl. Evol. Comput.|[EvoAPPS](https://link.springer.com/conference/evoapplications)|[2010 -](https://dblp.org/db/conf/evoapps/index.html)|False||||[31/03/2027](https://www.evostar.org/2027/evoapps/)|**{{ diffDate('2027-03-31') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ### Remarks
 
@@ -110,7 +110,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|[Evolutionary Computation in Combinatorial Optimization](https://www.evostar.org/)|Proc. Eur. Conf. Evol. Comput. Comb. Optim.|[EvoCOP](https://link.springer.com/conference/evocop)|[2004 -](https://dblp.org/db/conf/evocop/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evocop/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[Evolutionary Computation in Combinatorial Optimization](https://www.evostar.org/)|Proc. Eur. Conf. Evol. Comput. Comb. Optim.|[EvoCOP](https://link.springer.com/conference/evocop)|[2004 -](https://dblp.org/db/conf/evocop/index.html)|False||||[31/03/2027](https://www.evostar.org/2027/evocop/)|**{{ diffDate('2027-03-31') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ### Remarks
 
@@ -138,7 +138,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|[Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/)|Proc. Int. Conf. Artif. Intell. Music, Sound, Art and Design|[EvoMUSART](https://link.springer.com/conference/evomusart)|[2012 -](https://dblp.org/db/conf/evomusart/index.html)|False||01/11/2025|**{{ diffDate('2025-11-01') }}**|[08/04/2026](https://www.evostar.org/2026/evomusart/)|**{{ diffDate('2026-04-08') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|[Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/)|Proc. Int. Conf. Artif. Intell. Music, Sound, Art and Design|[EvoMUSART](https://link.springer.com/conference/evomusart)|[2012 -](https://dblp.org/db/conf/evomusart/index.html)|False||||[31/03/2027](https://www.evostar.org/2027/evomusart/)|**{{ diffDate('2027-03-31') }}**|Toulouse, France|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ### Remarks
 
