@@ -6,7 +6,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[AAAI](https://www.aaai.org/)|[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/conferences.php)|[Proc. AAAI Conf. Artif. Intell.](https://ojs.aaai.org/index.php/AAAI/about)|[AAAI](https://ojs.aaai.org/index.php/AAAI/issue/archive)|1980 -|True|A|25/07/2025|**{{ diffDate('2025-07-25') }}**|[20/01/2026](https://aaai.org/conference/aaai/aaai-26/)|**{{ diffDate('2026-01-20') }}**|Singapore|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|[AAAI](https://www.aaai.org/)|[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/conferences.php)|[Proc. AAAI Conf. Artif. Intell.](https://ojs.aaai.org/index.php/AAAI/about)|[AAAI](https://ojs.aaai.org/index.php/AAAI/issue/archive)|1980 -|True|A|21/07/2026|**{{ diffDate('2026-07-21') }}**|[16/02/2027](https://aaai.org/conference/aaai/aaai-27/)|**{{ diffDate('2027-02-16') }}**|Montréal, Canada|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
