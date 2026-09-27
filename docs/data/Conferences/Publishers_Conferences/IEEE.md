@@ -6,7 +6,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False||31/01/2026|**{{ diffDate('2026-01-31') }}**|[21/06/2026](https://attend.ieee.org/wcci-2026/)|**{{ diffDate('2026-06-21') }}**|Maastricht|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False||28/02/2027|**{{ diffDate('2027-02-28') }}**|[25/07/2027](https://ieeecec.org/2027)|**{{ diffDate('2027-07-25') }}**|Edinburgh, Scotland, UK|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
@@ -30,7 +30,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|06/11/2025|**{{ diffDate('2025-11-06') }}**|[03/06/2026](https://cvpr.thecvf.com/Conferences/2026)|**{{ diffDate('2026-06-03') }}**|Denver Convention Center, Denver, CO, USA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|10/11/2026|**{{ diffDate('2026-11-10') }}**|[20/06/2027](https://cvpr.thecvf.com/Conferences/2027)|**{{ diffDate('2027-06-20') }}**|Seattle WA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
 
 ```mermaid
 ---
