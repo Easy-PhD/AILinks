@@ -58,7 +58,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False||28/02/2027|**{{ diffDate('2027-02-28') }}**|[25/07/2027](https://ieeecec.org/2027)|**{{ diffDate('2027-07-25') }}**|Edinburgh, Scotland, UK|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False|C|28/02/2027|**{{ diffDate('2027-02-28') }}**|[25/07/2027](https://ieeecec.org/2027)|**{{ diffDate('2027-07-25') }}**|Edinburgh, Scotland, UK|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
