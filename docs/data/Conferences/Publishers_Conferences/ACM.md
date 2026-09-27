@@ -84,7 +84,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Knowledge Discovery And Data Mining](https://kdd.org)|[Proc. ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining](https://kdd.org/about)|[KDD](https://dlnext.acm.org/conference/kdd/proceedings)|1995 -|True|A|01/02/2026|**{{ diffDate('2026-02-01') }}**|[09/08/2026](https://kdd2026.kdd.org/)|**{{ diffDate('2026-08-09') }}**|Jeju, Korea|[Data Mining](https://www.google.com/search?q=Data+Mining)|
+|[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Knowledge Discovery And Data Mining](https://kdd.org)|[Proc. ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining](https://kdd.org/about)|[KDD](https://dlnext.acm.org/conference/kdd/proceedings)|1995 -|True|A|19/07/2026|**{{ diffDate('2026-07-19') }}**|[01/08/2027](https://kdd2027.kdd.org/)|**{{ diffDate('2027-08-01') }}**|San Jose, United States|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ```mermaid
 ---
@@ -120,7 +120,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM Symposium on Theory of Computing](https://sigact.org/articles/conferences.html)|[Proc. ACM Symp. Theor. Comput.](https://acm-stoc.org/)|[STOC](https://dl.acm.org/conference/stoc)|1969 -|True|A|14/12/2025|**{{ diffDate('2025-12-14') }}**|[22/06/2026](https://acm-stoc.org/stoc2026/)|**{{ diffDate('2026-06-22') }}**|Salt Lake City, Utah, USA|[Computation Theory](https://www.google.com/search?q=Computation+Theory)|
+|[ACM](https://www.acm.org/)|[ACM Symposium on Theory of Computing](https://sigact.org/articles/conferences.html)|[Proc. ACM Symp. Theor. Comput.](https://acm-stoc.org/)|[STOC](https://dl.acm.org/conference/stoc)|1969 -|True|A|02/11/2025|**{{ diffDate('2025-11-02') }}**|[06/06/2027](https://acm-stoc.org/stoc2027/)|**{{ diffDate('2027-06-06') }}**|Atlanta, Georgia, USA|[Computation Theory](https://www.google.com/search?q=Computation+Theory)|
 
 ## SoCC
 
