@@ -58,7 +58,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[Robotics: Science and Systems Conference](https://roboticsconference.org)|Proc. Robot. Sci. Syst.|RSS|[2005 -](https://dblp.org/db/conf/rss/index.html)|False||||[13/07/2026](https://roboticsconference.org)|**{{ diffDate('2026-07-13') }}**|Sydney, Australia|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
+|OPEN|[Robotics: Science and Systems Conference](https://roboticsconference.org)|Proc. Robot. Sci. Syst.|RSS|[2005 -](https://dblp.org/db/conf/rss/index.html)|False||04/12/2026|**{{ diffDate('2026-12-04') }}**|[06/07/2027](https://roboticsconference.org)|**{{ diffDate('2027-07-06') }}**|Athens, Greece|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
 
 ```mermaid
 ---

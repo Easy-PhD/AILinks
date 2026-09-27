@@ -52,7 +52,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|[European Conference on Computer Vision](https://eccv.ecva.net/)|Proc. Eur. Conf. Comput. Vis.|[ECCV](https://link.springer.com/conference/eccv)|[1990 -](https://dblp.org/db/conf/eccv/index.html)|False|B|06/03/2026|**{{ diffDate('2026-03-06') }}**|[08/09/2026](https://eccv.ecva.net/)|**{{ diffDate('2026-09-08') }}**|Malmö, Sweden|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
+|[SPRINGER](https://www.springer.com/)|[European Conference on Computer Vision](https://eccv.ecva.net/)|Proc. Eur. Conf. Comput. Vis.|[ECCV](https://link.springer.com/conference/eccv)|[1990 -](https://dblp.org/db/conf/eccv/index.html)|False|B|||[18/01/2027](https://iser.org.in/conf/index.php?id=101667635&utm_source=ACA&utm_medium=organic)|**{{ diffDate('2027-01-18') }}**|Manila, Philippines|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
 
 ```mermaid
 ---
