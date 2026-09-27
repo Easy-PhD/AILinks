@@ -40,7 +40,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True||19/09/2025|**{{ diffDate('2025-09-19') }}**|[23/04/2026](https://iclr.cc/)|**{{ diffDate('2026-04-23') }}**|Rio de Janeiro, Brazil|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True||18/09/2026|**{{ diffDate('2026-09-18') }}**|[26/04/2027](https://iclr.cc/)|**{{ diffDate('2027-04-26') }}**|California, USA|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
