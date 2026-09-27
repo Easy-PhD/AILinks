@@ -15,12 +15,6 @@
 |OPEN|[Advances in Neural Information Processing Systems](https://nips.cc/)|Proc. Adv. Neural Inf. Process. Syst.|[NeurIPS](https://proceedings.neurips.cc/)|1987 -|True|A|04/05/2026|**{{ diffDate('2026-05-04') }}**|[06/12/2026](https://nips.cc/)|**{{ diffDate('2026-12-06') }}**|Sydney, Australia.|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 |[PMLR](https://proceedings.mlr.press/)|[International Conference on Artificial Intelligence and Statistics](https://aistats.org)|Proc. Int. Conf. Artif. Intell. Statist.|[AISTATS](https://proceedings.mlr.press/)|1997 -|False|C|29/09/2026|**{{ diffDate('2026-09-29') }}**|[03/05/2027](https://aistats.org/aistats2027/)|**{{ diffDate('2027-05-03') }}**|Montreal, Canada|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
-## Optimization
-
-|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM-SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences-events/siam-conferences)|Proc. ACM-SIAM Symp. Discret. Algo.|SODA|1990 -|True|A|14/07/2015|**{{ diffDate('2015-07-14') }}**|[11/01/2026](https://www.siam.org/conferences-events/siam-conferences/soda26/)|**{{ diffDate('2026-01-11') }}**|Vancouver, Canada|[Discrete Algorithms](https://www.google.com/search?q=Discrete+Algorithms)|
-
 ## Neural Networks
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|

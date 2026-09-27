@@ -85,12 +85,6 @@
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Management of Data](https://sigmod.org/)|[Proc. ACM SIGMOD Int. Conf. Manag. Data](https://sigmod.org/about-sigmod/)|[SIGMOD](https://dl.acm.org/conference/mod/proceedings)|1975 -|True|A|17/10/2026|**{{ diffDate('2026-10-17') }}**|[13/06/2027](https://2026.sigmod.org/)|**{{ diffDate('2027-06-13') }}**|Huntington Beach, CA|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Data Engineering](https://ieee-icde.org/)|Proc. Int. Conf. Data. Eng.|[ICDE](https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings)|[1984 -](https://dblp.org/db/conf/icde/index.html)|True|A|11/11/2026|**{{ diffDate('2026-11-11') }}**|[17/05/2027](https://icde2027.github.io/)|**{{ diffDate('2027-05-17') }}**|Copenhagen, Denmark|[Data Engineering](https://www.google.com/search?q=Data+Engineering)|
 
-## Discrete Algorithms
-
-|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM-SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences-events/siam-conferences)|Proc. ACM-SIAM Symp. Discret. Algo.|SODA|1990 -|True|A|14/07/2015|**{{ diffDate('2015-07-14') }}**|[11/01/2026](https://www.siam.org/conferences-events/siam-conferences/soda26/)|**{{ diffDate('2026-01-11') }}**|Vancouver, Canada|[Discrete Algorithms](https://www.google.com/search?q=Discrete+Algorithms)|
-
 ## Evolutionary Computation
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
@@ -178,12 +172,6 @@
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
 |[USENIX](https://www.usenix.org/)|[Usenix Symposium On Operating Systems Design And Implementations](https://www.usenix.org)|Proc. USENIX Symp. Oper. Syst. Des. Implement.|[OSDI](https://dl.acm.org/conference/osdi/proceedings)|[1994 -](https://dblp.org/db/conf/osdi/index.html)|True|A|01/12/2026|**{{ diffDate('2026-12-01') }}**|[07/07/2027](https://www.usenix.org/conference/osdi27)|**{{ diffDate('2027-07-07') }}**|Baltimore, MD, USA|[Operating Systems](https://www.google.com/search?q=Operating+Systems)|
-
-## Optimization
-
-|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM-SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences-events/siam-conferences)|Proc. ACM-SIAM Symp. Discret. Algo.|SODA|1990 -|True|A|14/07/2015|**{{ diffDate('2015-07-14') }}**|[11/01/2026](https://www.siam.org/conferences-events/siam-conferences/soda26/)|**{{ diffDate('2026-01-11') }}**|Vancouver, Canada|[Discrete Algorithms](https://www.google.com/search?q=Discrete+Algorithms)|
 
 ## Pattern Recognition
 

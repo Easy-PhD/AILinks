@@ -110,12 +110,6 @@ xychart-beta
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Management of Data](https://sigmod.org/)|[Proc. ACM SIGMOD Int. Conf. Manag. Data](https://sigmod.org/about-sigmod/)|[SIGMOD](https://dl.acm.org/conference/mod/proceedings)|1975 -|True|A|17/10/2026|**{{ diffDate('2026-10-17') }}**|[13/06/2027](https://2026.sigmod.org/)|**{{ diffDate('2027-06-13') }}**|Huntington Beach, CA|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
-## SODA
-
-|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM-SIAM Symposium on Discrete Algorithms](https://www.siam.org/conferences-events/siam-conferences)|Proc. ACM-SIAM Symp. Discret. Algo.|SODA|1990 -|True|A|14/07/2015|**{{ diffDate('2015-07-14') }}**|[11/01/2026](https://www.siam.org/conferences-events/siam-conferences/soda26/)|**{{ diffDate('2026-01-11') }}**|Vancouver, Canada|[Discrete Algorithms](https://www.google.com/search?q=Discrete+Algorithms)|
-
 ## STOC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
