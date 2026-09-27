@@ -32,7 +32,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||12/01/2026|**{{ diffDate('2026-01-12') }}**|[15/08/2026](https://socs25.search-conference.org/)|**{{ diffDate('2026-08-15') }}**|Bremen, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
+|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||16/03/2026|**{{ diffDate('2026-03-16') }}**|[14/08/2026](https://socs26.search-conference.org/)|**{{ diffDate('2026-08-14') }}**|Bremerhaven, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
 
 ## Computation Theory
 
@@ -44,7 +44,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||12/01/2026|**{{ diffDate('2026-01-12') }}**|[15/08/2026](https://socs25.search-conference.org/)|**{{ diffDate('2026-08-15') }}**|Bremen, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
+|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||16/03/2026|**{{ diffDate('2026-03-16') }}**|[14/08/2026](https://socs26.search-conference.org/)|**{{ diffDate('2026-08-14') }}**|Bremerhaven, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
 |[ACM](https://www.acm.org/)|[ACM Symposium On Cloud Computing](https://acmsocc.org/)|Proc. Symp. Cloud Comput.|SoCC|2010 -|False|B|07/07/2025|**{{ diffDate('2025-07-07') }}**|[18/11/2026](https://acmsocc.org/2026/)|**{{ diffDate('2026-11-18') }}**|Singapore|[Cloud Computing](https://www.google.com/search?q=Cloud+Computing)|
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||10/08/2026|**{{ diffDate('2026-08-10') }}**|[14/02/2027](https://ieee-ssci.org/)|**{{ diffDate('2027-02-14') }}**|Queensland, Australia|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE World Congress on Computational Intelligence|Proc. IEEE World Congr. Comput. Intell.|WCCI|2008 -|False||31/01/2026|**{{ diffDate('2026-01-31') }}**|[21/06/2026](https://attend.ieee.org/wcci-2026/)|**{{ diffDate('2026-06-21') }}**|Maastricht, USA|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
@@ -95,7 +95,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||02/05/2025|**{{ diffDate('2025-05-02') }}**|[27/08/2025](https://naco.liacs.nl/foga2025/)|**{{ diffDate('2025-08-27') }}**|Leiden, The Netherlands|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||03/05/2027|**{{ diffDate('2027-05-03') }}**|[01/09/2027](https://foga2027.dei.uc.pt/)|**{{ diffDate('2027-09-01') }}**|Coimbra, Portugal|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2027.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False||31/01/2026|**{{ diffDate('2026-01-31') }}**|[21/06/2026](https://attend.ieee.org/wcci-2026/)|**{{ diffDate('2026-06-21') }}**|Maastricht|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
@@ -126,7 +126,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||12/01/2026|**{{ diffDate('2026-01-12') }}**|[15/08/2026](https://socs25.search-conference.org/)|**{{ diffDate('2026-08-15') }}**|Bremen, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
+|[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||16/03/2026|**{{ diffDate('2026-03-16') }}**|[14/08/2026](https://socs26.search-conference.org/)|**{{ diffDate('2026-08-14') }}**|Bremerhaven, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
 
 ## Intelligent Robots
 
@@ -164,7 +164,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACL](https://www.aclweb.org/)|[Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/)|Proc. Annu. Meeting Assoc. Comput. Linguistics|[ACL](https://aclanthology.org/venues/acl/)|1962 -|True|A|05/01/2026|**{{ diffDate('2026-01-05') }}**|[02/07/2026](https://2026.aclweb.org/)|**{{ diffDate('2026-07-02') }}**|San Diego, CA, USA|[Natural Language Processing](https://www.google.com/search?q=Natural+Language+Processing)|
+|[ACL](https://www.aclweb.org/)|[Annual Meeting of the Association for Computational Linguistics](https://aclanthology.org/venues/acl/)|Proc. Annu. Meeting Assoc. Comput. Linguistics|[ACL](https://aclanthology.org/venues/acl/)|1962 -|True|A|||[17/08/2027](https://2027.aclweb.org/)|**{{ diffDate('2027-08-17') }}**|Kyoto, Japan|[Natural Language Processing](https://www.google.com/search?q=Natural+Language+Processing)|
 
 ## Neural Networks
 
