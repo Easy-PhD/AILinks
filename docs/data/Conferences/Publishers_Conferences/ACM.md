@@ -60,7 +60,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|19/01/2026|**{{ diffDate('2026-01-19') }}**|[13/07/2026](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2026-07-13') }}**|San Antonio, Costa Rica|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
