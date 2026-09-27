@@ -18,10 +18,10 @@ config:
 ---
 xychart-beta
     title "AAAI"
-    x-axis [2000, 2002, 2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
+    x-axis [2000, 2002, 2004, 2005, 2006, 2007, 2008, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
     y-axis "Number of Papers"
-    bar [215, 180, 177, 304, 363, 270, 333, 333, 329, 383, 277, 474, 674, 691, 786, 1102, 1343, 1865, 1961, 1624, 2021, 2866, 3486]
-    line [215, 180, 177, 304, 363, 270, 333, 333, 329, 383, 277, 474, 674, 691, 786, 1102, 1343, 1865, 1961, 1624, 2021, 2866, 3486]
+    bar [215, 180, 177, 304, 363, 270, 333, 333, 329, 383, 277, 474, 674, 691, 786, 1102, 1343, 1865, 1961, 1624, 2021, 2866, 3486, 4819]
+    line [215, 180, 177, 304, 363, 270, 333, 333, 329, 383, 277, 474, 674, 691, 786, 1102, 1343, 1865, 1961, 1624, 2021, 2866, 3486, 4819]
 ```
 
 ## UAI
@@ -126,17 +126,17 @@ config:
 ---
 xychart-beta
     title "NeurIPS"
-    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+    x-axis [2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025]
     y-axis "Number of Papers"
-    bar [152, 197, 207, 198, 207, 207, 204, 217, 250, 262, 292, 306, 370, 360, 411, 403, 569, 679, 1009, 1428, 1898, 2334, 2834, 3540, 4494]
-    line [152, 197, 207, 198, 207, 207, 204, 217, 250, 262, 292, 306, 370, 360, 411, 403, 569, 679, 1009, 1428, 1898, 2334, 2834, 3540, 4494]
+    bar [152, 197, 207, 198, 207, 207, 204, 217, 250, 262, 292, 306, 370, 360, 411, 403, 569, 679, 1009, 1428, 1898, 2334, 2834, 3540, 4494, 5823]
+    line [152, 197, 207, 198, 207, 207, 204, 217, 250, 262, 292, 306, 370, 360, 411, 403, 569, 679, 1009, 1428, 1898, 2334, 2834, 3540, 4494, 5823]
 ```
 
 ## AISTATS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[PMLR](https://proceedings.mlr.press/)|[International Conference on Artificial Intelligence and Statistics](https://aistats.org)|Proc. Int. Conf. Artif. Intell. Statist.|[AISTATS](https://proceedings.mlr.press/)|1997 -|False|C|25/09/2025|**{{ diffDate('2025-09-25') }}**|[02/05/2026](https://aistats.org/aistats2026/)|**{{ diffDate('2026-05-02') }}**|Tangier, Morocco|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|[PMLR](https://proceedings.mlr.press/)|[International Conference on Artificial Intelligence and Statistics](https://aistats.org)|Proc. Int. Conf. Artif. Intell. Statist.|[AISTATS](https://proceedings.mlr.press/)|1997 -|False|C|29/09/2026|**{{ diffDate('2026-09-29') }}**|[03/05/2027](https://aistats.org/aistats2027/)|**{{ diffDate('2027-05-03') }}**|Montreal, Canada|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
