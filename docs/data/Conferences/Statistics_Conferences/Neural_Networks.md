@@ -4,7 +4,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[European Symposium on Artificial Neural Networks](https://www.esann.org/)|Proc. Eur. Symp. Artif. Neural Netw.|ESANN|1993 -|False||19/11/2025|**{{ diffDate('2025-11-19') }}**|[22/04/2026](https://www.esann.org/)|**{{ diffDate('2026-04-22') }}**|Bruges, Belgium|[Neural Networks](https://www.google.com/search?q=Neural+Networks)|
+|OPEN|[European Symposium on Artificial Neural Networks](https://www.esann.org/)|Proc. Eur. Symp. Artif. Neural Netw.|ESANN|1993 -|False||18/11/2026|**{{ diffDate('2026-11-18') }}**|[21/04/2027](https://www.esann.org/)|**{{ diffDate('2027-04-21') }}**|Bruges, Belgium|[Neural Networks](https://www.google.com/search?q=Neural+Networks)|
 
 ## ICANN
 
