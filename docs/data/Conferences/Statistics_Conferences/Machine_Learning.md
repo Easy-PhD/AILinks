@@ -48,3 +48,9 @@ xychart-beta
     line [151, 80, 87, 117, 118, 134, 140, 150, 158, 180, 159, 152, 243, 283, 310, 270, 322, 434, 621, 773, 1085, 1183, 1233, 1828, 2610]
 ```
 
+## EvoLearn
+
+|Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|[SPRINGER](https://www.springer.com/)|[International Conference on Evolutionary Computation and Learning](https://www.evostar.org/)|Proc. Int. Conf. Evol. Comput. Learn.|[EvoLearn](https://link.springer.com/conference/evolearn)|[2027 -](https://dblp.org/db/conf/evolearn/index.html)|False||01/11/2026|**{{ diffDate('2026-11-01') }}**|[31/03/2027](https://www.evostar.org/2027/evolearn/)|**{{ diffDate('2027-03-31') }}**|Mainz, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+
