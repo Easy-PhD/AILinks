@@ -40,7 +40,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True||18/09/2026|**{{ diffDate('2026-09-18') }}**|[26/04/2027](https://iclr.cc/)|**{{ diffDate('2027-04-26') }}**|California, USA|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True|A|18/09/2026|**{{ diffDate('2026-09-18') }}**|[26/04/2027](https://iclr.cc/)|**{{ diffDate('2027-04-26') }}**|California, USA|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
@@ -64,7 +64,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|TBD||[TBD](https://icml.cc/)||South America|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|TBD||[01/07/2026](https://icml.cc/)||South America|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ```mermaid
 ---
