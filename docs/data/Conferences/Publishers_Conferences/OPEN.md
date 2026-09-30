@@ -6,7 +6,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|ANTS International Conference on Swarm Intelligence|ANTS Proc. Int. Conf. Swarm Intell.|ANTS|1998 -|False||10/11/2025|**{{ diffDate('2025-11-10') }}**|[08/06/2026](https://ants2026.org/)|**{{ diffDate('2026-06-08') }}**|Darmstadt, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
+|OPEN|ANTS International Conference on Swarm Intelligence|ANTS Proc. Int. Conf. Swarm Intell.|ANTS|1998 -|False||TBD||[TBD](https://ants2026.org/)|||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
 
 ## CoRL
 
@@ -64,7 +64,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|30/01/2026|**{{ diffDate('2026-01-30') }}**|[06/07/2026](https://icml.cc/)|**{{ diffDate('2026-07-06') }}**|Seoul Korea|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|TBD||[TBD](https://icml.cc/)||South America|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ```mermaid
 ---
