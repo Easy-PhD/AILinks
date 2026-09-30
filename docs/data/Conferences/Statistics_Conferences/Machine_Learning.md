@@ -28,7 +28,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|TBD||[01/07/2026](https://icml.cc/)|**{{ diffDate('2026-07-01') }}**|South America|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+|OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|TBD||[01/07/2027](https://icml.cc/)|**{{ diffDate('2027-07-01') }}**|South America|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ```mermaid
 ---
