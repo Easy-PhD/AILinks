@@ -18,7 +18,7 @@
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|European Conference on Artificial Intelligence|Proc. Eur. Conf. Artif. Intell.|ECAI|1974 -|False|B|||[02/10/2027](https://www.eetn.gr/ecai-2027/)|**{{ diffDate('2027-10-02') }}**|Athens (Greece)|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|European Conference on Artificial Intelligence|Proc. Eur. Conf. Artif. Intell.|ECAI|1974 -|False|B|TBD||[02/10/2027](https://www.eetn.gr/ecai-2027/)|**{{ diffDate('2027-10-02') }}**|Athens (Greece)|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ### Remarks
 
@@ -88,7 +88,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|||[07/08/2027](https://2027.ijcai.org/)|**{{ diffDate('2027-08-07') }}**|Kyoto, Japan|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
+|OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|04/01/2027|**{{ diffDate('2027-01-04') }}**|[07/08/2027](https://2027.ijcai.org/)|**{{ diffDate('2027-08-07') }}**|Kyoto, Japan|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
 ---
