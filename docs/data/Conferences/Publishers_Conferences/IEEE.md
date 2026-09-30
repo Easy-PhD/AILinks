@@ -102,7 +102,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference On Computer Vision](https://iccv.thecvf.com/)|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|||[01/10/2027](https://iccv.thecvf.com/)|**{{ diffDate('2027-10-01') }}**|Hong Kong, China|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference On Computer Vision](https://iccv.thecvf.com/)|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|||[02/10/2027](https://iccv.thecvf.com/Conferences/2027)|**{{ diffDate('2027-10-02') }}**|Hong Kong, China|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
 
 ```mermaid
 ---
@@ -150,7 +150,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Machine Learning and Cybernetics](https://www.icmlc.com/)|Proc. IEEE Int. Conf. Mach. Learn. Cybern.|[ICMLC](https://ieeexplore.ieee.org/xpl/conhome/1000424/all-proceedings)|[2005 -](https://dblp.org/db/conf/icmlc/index.html)|False||05/03/2026|**{{ diffDate('2026-03-05') }}**|[12/07/2016](https://www.icmlc.com/)|**{{ diffDate('2016-07-12') }}**|Cagliari, Italy|[Machine Learning](https://www.google.com/search?q=Machine+Learning)|
+|[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Machine Learning and Cybernetics](https://www.icmlc.com/)|Proc. IEEE Int. Conf. Mach. Learn. Cybern.|[ICMLC](https://ieeexplore.ieee.org/xpl/conhome/1000424/all-proceedings)|[2005 -](https://dblp.org/db/conf/icmlc/index.html)|False||04/04/2026|**{{ diffDate('2026-04-04') }}**|[12/07/2026](https://www.icmlc.com/)|**{{ diffDate('2026-07-12') }}**|Cagliari, Italy|[Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ```mermaid
 ---
@@ -270,5 +270,5 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[IEEE](https://ieeexplore.ieee.org/)|IEEE World Congress on Computational Intelligence|Proc. IEEE World Congr. Comput. Intell.|WCCI|2008 -|False||31/01/2026|**{{ diffDate('2026-01-31') }}**|[21/06/2026](https://attend.ieee.org/wcci-2026/)|**{{ diffDate('2026-06-21') }}**|Maastricht, USA|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
+|[IEEE](https://ieeexplore.ieee.org/)|IEEE World Congress on Computational Intelligence|Proc. IEEE World Congr. Comput. Intell.|WCCI|2008 -|False||15/01/2028|**{{ diffDate('2028-01-15') }}**|[23/07/2028](https://wcci2028.sau.int/)|**{{ diffDate('2028-07-23') }}**|New Delhi, India|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
 
