@@ -268,7 +268,7 @@ xychart-beta
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
 |-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
-|[SPRINGER](https://www.springer.com/)|Parallel Problem Solving from Nature|Proc. Int. Conf. Parallel Probl. Solving Nat.|[PPSN](https://link.springer.com/conference/ppsn)|[1990 -](https://dblp.org/db/conf/ppsn/index.html)|False|B|28/03/2026|**{{ diffDate('2026-03-28') }}**|[29/08/2026](https://ppsn2026.disi.unitn.it/)|**{{ diffDate('2026-08-29') }}**|Trento, Italy|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
+|[SPRINGER](https://www.springer.com/)|Parallel Problem Solving from Nature|Proc. Int. Conf. Parallel Probl. Solving Nat.|[PPSN](https://link.springer.com/conference/ppsn)|[1990 -](https://dblp.org/db/conf/ppsn/index.html)|False|B||||||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
 ---
