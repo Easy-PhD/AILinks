@@ -93,18 +93,18 @@
 
         // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
         // HTML
-        // plugins: [
-        //   function (hook, vm) {
-        //     hook.beforeEach(function (content) {
-        //       if (vm.route.file.endsWith(".html")) {
-        //         return fetch(vm.route.file)
-        //           .then((res) => res.text())
-        //           .catch(() => "Failed to load HTML");
-        //       }
-        //       return content;
-        //     });
-        //   },
-        // ],
+        plugins: [
+          function (hook, vm) {
+            hook.beforeEach(function (content) {
+              if (vm.route.file.endsWith(".html")) {
+                return fetch(vm.route.file)
+                  .then((res) => res.text())
+                  .catch(() => "Failed to load HTML");
+              }
+              return content;
+            });
+          },
+        ],
 
         // --------- --------- --------- --------- --------- --------- --------- --------- --------- //
         // Search
