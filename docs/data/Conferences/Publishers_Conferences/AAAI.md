@@ -5,7 +5,7 @@
 ## AAAI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[AAAI](https://www.aaai.org/)|[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/conferences.php)|[Proc. AAAI Conf. Artif. Intell.](https://ojs.aaai.org/index.php/AAAI/about)|[AAAI](https://ojs.aaai.org/index.php/AAAI/issue/archive)|1980 -|True|A|21/07/2026|**{{ diffDate('2026-07-21') }}**|[16/02/2027](https://aaai.org/conference/aaai/aaai-27/)|**{{ diffDate('2027-02-16') }}**|Montréal, Canada|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
@@ -29,7 +29,7 @@ xychart-beta
 ## ICAPS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[AAAI](https://www.aaai.org/)|[International Conference on Automated Planning and Scheduling](https://www.icaps-conference.org/)|[Proc. Int. Conf. Automat. Plan. Schedul.](https://www.icaps-conference.org/)|[ICAPS](https://ojs.aaai.org/index.php/ICAPS/issue/archive)|1991 -|False|B|07/12/2026|**{{ diffDate('2026-12-07') }}**|[27/06/2027](https://icaps27.icaps-conference.org/)|**{{ diffDate('2027-06-27') }}**|Columbia, SC, USA|[Planning and Scheduling](https://www.google.com/search?q=Planning+and+Scheduling)|
 
 ```mermaid
@@ -53,7 +53,7 @@ xychart-beta
 ## SoCS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||16/03/2026|**{{ diffDate('2026-03-16') }}**|[14/08/2026](https://socs26.search-conference.org/)|**{{ diffDate('2026-08-14') }}**|Bremerhaven, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
 
 ### Remarks

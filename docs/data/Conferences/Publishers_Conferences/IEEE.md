@@ -5,7 +5,7 @@
 ## CEC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False|C|28/02/2027|**{{ diffDate('2027-02-28') }}**|[25/07/2027](https://ieeecec.org/2027)|**{{ diffDate('2027-07-25') }}**|Edinburgh, Scotland, UK|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -29,7 +29,7 @@ xychart-beta
 ## CVPR
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Conference On Computer Vision And Pattern Recognition](https://cvpr.thecvf.com/)|Proc. IEEE Conf. Comput. Vis. Pattern Recognit.|[CVPR](https://ieeexplore.ieee.org/xpl/conhome/1000147/all-proceedings)|[1988 -](https://dblp.org/db/conf/cvpr/index.html)|True|A|10/11/2026|**{{ diffDate('2026-11-10') }}**|[20/06/2027](https://cvpr.thecvf.com/Conferences/2027)|**{{ diffDate('2027-06-20') }}**|Seattle WA|[Pattern Recognition](https://www.google.com/search?q=Pattern+Recognition)|
 
 ```mermaid
@@ -53,7 +53,7 @@ xychart-beta
 ## EAIS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Evolving and Adaptive Intelligent Systems|Proc. IEEE Int Conf. Evol. Adapt. Intell. Syst.|[EAIS](https://ieeexplore.ieee.org/xpl/conhome/1800397/all-proceedings)|[2011 -](https://dblp.org/db/conf/eais/index.html)|False||15/03/2026|**{{ diffDate('2026-03-15') }}**|[21/09/2026](https://ai.dii.unipi.it/eais2026/)|**{{ diffDate('2026-09-21') }}**|Pisa, Italy|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -77,7 +77,7 @@ xychart-beta
 ## FOCS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium on Foundations of Computer Science](https://ieee-focs.org/)|Proc. IEEE Annu. Symp. Found. Comput. Sci.|[FOCS](https://ieeexplore.ieee.org/xpl/conhome/1000292/all-proceedings)|[1960 -](https://dblp.org/db/conf/focs/index.html)|True|A|01/04/2026|**{{ diffDate('2026-04-01') }}**|[08/11/2026](https://focs.computer.org/2026/)|**{{ diffDate('2026-11-08') }}**|Sydney, Australia|[Computer Science](https://www.google.com/search?q=Computer+Science)|
 
 ```mermaid
@@ -101,7 +101,7 @@ xychart-beta
 ## ICCV
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference On Computer Vision](https://iccv.thecvf.com/)|Proc. IEEE Int. Conf. Comput. Vis.|[ICCV](https://ieeexplore.ieee.org/xpl/conhome/1000149/all-proceedings)|[1963 -](https://dblp.org/db/conf/iccv/index.html)|True|A|||[02/10/2027](https://iccv.thecvf.com/Conferences/2027)|**{{ diffDate('2027-10-02') }}**|Hong Kong, China|[Computer Vision](https://www.google.com/search?q=Computer+Vision)|
 
 ```mermaid
@@ -125,7 +125,7 @@ xychart-beta
 ## ICDE
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Data Engineering](https://ieee-icde.org/)|Proc. Int. Conf. Data. Eng.|[ICDE](https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings)|[1984 -](https://dblp.org/db/conf/icde/index.html)|True|A|11/11/2026|**{{ diffDate('2026-11-11') }}**|[17/05/2027](https://icde2027.github.io/)|**{{ diffDate('2027-05-17') }}**|Copenhagen, Denmark|[Data Engineering](https://www.google.com/search?q=Data+Engineering)|
 
 ```mermaid
@@ -149,7 +149,7 @@ xychart-beta
 ## ICMLC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Machine Learning and Cybernetics](https://www.icmlc.com/)|Proc. IEEE Int. Conf. Mach. Learn. Cybern.|[ICMLC](https://ieeexplore.ieee.org/xpl/conhome/1000424/all-proceedings)|[2005 -](https://dblp.org/db/conf/icmlc/index.html)|False||04/04/2026|**{{ diffDate('2026-04-04') }}**|[12/07/2026](https://www.icmlc.com/)|**{{ diffDate('2026-07-12') }}**|Cagliari, Italy|[Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ```mermaid
@@ -173,7 +173,7 @@ xychart-beta
 ## ICRA
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Robotics and Automation](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra)|Proc. IEEE Int. Conf. Robot. Automat.|[ICRA](https://ieeexplore.ieee.org/xpl/conhome/1000639/all-proceedings)|[1984 -](https://dblp.org/db/conf/icra/index.html)|False|B|16/09/2026|**{{ diffDate('2026-09-16') }}**|[24/05/2027](https://2027.ieee-icra.org/)|**{{ diffDate('2027-05-24') }}**|Coex, Seoul, South Korea|[Robotics and UAV](https://www.google.com/search?q=Robotics+and+UAV)|
 
 ```mermaid
@@ -197,7 +197,7 @@ xychart-beta
 ## IROS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.ieee-ras.org/conferences-workshops/financially-co-sponsored/iros)|Proc. IEEE/RSJ Int. Conf. Intell. Robot. Syst.|[IROS](https://ieeexplore.ieee.org/xpl/conhome/1000393/all-proceedings)|[1988 -](https://dblp.org/db/conf/iros/index.html)|False|C|01/05/2027|**{{ diffDate('2027-05-01') }}**|[26/09/2027](https://www.ieee-ras.org/event/2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-70525/)|**{{ diffDate('2027-09-26') }}**|Florence, Italy|[Intelligent Robots](https://www.google.com/search?q=Intelligent+Robots)|
 
 ```mermaid
@@ -221,7 +221,7 @@ xychart-beta
 ## SMC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Systems, Man and Cybernetics|Proc. IEEE Int. Conf. Syst., Man, Cybern.|[SMC](https://ieeexplore.ieee.org/xpl/conhome/1000738/all-proceedings)|[1989 -](https://dblp.org/db/conf/smc/index.html)|False|C|22/03/2026|**{{ diffDate('2026-03-22') }}**|[04/10/2026](https://www.ieeesmc2026.org/)|**{{ diffDate('2026-10-04') }}**|Bellevue, WA, USA|[Computer Science](https://www.google.com/search?q=Computer+Science)|
 
 ```mermaid
@@ -245,7 +245,7 @@ xychart-beta
 ## SSCI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||10/08/2026|**{{ diffDate('2026-08-10') }}**|[14/02/2027](https://ieee-ssci.org/)|**{{ diffDate('2027-02-14') }}**|Queensland, Australia|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
 
 ```mermaid
@@ -269,6 +269,6 @@ xychart-beta
 ## WCCI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE World Congress on Computational Intelligence|Proc. IEEE World Congr. Comput. Intell.|WCCI|2008 -|False||15/01/2028|**{{ diffDate('2028-01-15') }}**|[23/07/2028](https://wcci2028.sau.int/)|**{{ diffDate('2028-07-23') }}**|New Delhi, India|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
 

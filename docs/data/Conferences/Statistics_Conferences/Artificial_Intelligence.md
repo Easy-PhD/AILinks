@@ -3,7 +3,7 @@
 ## AAAI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[AAAI](https://www.aaai.org/)|[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/conferences.php)|[Proc. AAAI Conf. Artif. Intell.](https://ojs.aaai.org/index.php/AAAI/about)|[AAAI](https://ojs.aaai.org/index.php/AAAI/issue/archive)|1980 -|True|A|21/07/2026|**{{ diffDate('2026-07-21') }}**|[16/02/2027](https://aaai.org/conference/aaai/aaai-27/)|**{{ diffDate('2027-02-16') }}**|Montréal, Canada|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
@@ -27,19 +27,19 @@ xychart-beta
 ## UAI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|25/02/2026|**{{ diffDate('2026-02-25') }}**|[17/08/2026](https://www.auai.org/uai2026/)|**{{ diffDate('2026-08-17') }}**|Amsterdam, Netherlands|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
 
 ## ECAI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|European Conference on Artificial Intelligence|Proc. Eur. Conf. Artif. Intell.|ECAI|1974 -|False|B|TBD||[02/10/2027](https://www.eetn.gr/ecai-2027/)|**{{ diffDate('2027-10-02') }}**|Athens (Greece)|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ## ICLR
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|[International Conference on Learning Representations](https://iclr.cc)|Proc. Int. Conf. Learn. Represent.|[ICLR](https://openreview.net/group?id=ICLR.cc)|[2013 -](https://dblp.org/db/conf/iclr/index.html)|True|A|18/09/2026|**{{ diffDate('2026-09-18') }}**|[26/04/2027](https://iclr.cc/)|**{{ diffDate('2027-04-26') }}**|California, USA|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
@@ -63,7 +63,7 @@ xychart-beta
 ## ICML
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|TBD||[01/07/2027](https://icml.cc/) Estimate|**{{ diffDate('2027-07-01') }}**|South America|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ```mermaid
@@ -87,7 +87,7 @@ xychart-beta
 ## IJCAI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|[International Joint Conference on Artificial Intelligence](https://www.ijcai.org)|Proc. Int. Joint Conf. Artif. Intell.|[IJCAI](https://www.ijcai.org/all_proceedings)|1969 -|True|A|04/01/2027|**{{ diffDate('2027-01-04') }}**|[07/08/2027](https://2027.ijcai.org/)|**{{ diffDate('2027-08-07') }}**|Kyoto, Japan|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
@@ -111,7 +111,7 @@ xychart-beta
 ## NeurIPS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|[Advances in Neural Information Processing Systems](https://nips.cc/)|Proc. Adv. Neural Inf. Process. Syst.|[NeurIPS](https://proceedings.neurips.cc/)|1987 -|True|A|04/05/2026|**{{ diffDate('2026-05-04') }}**|[06/12/2026](https://nips.cc/)|**{{ diffDate('2026-12-06') }}**|Sydney, Australia.|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid
@@ -135,7 +135,7 @@ xychart-beta
 ## AISTATS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[PMLR](https://proceedings.mlr.press/)|[International Conference on Artificial Intelligence and Statistics](https://aistats.org)|Proc. Int. Conf. Artif. Intell. Statist.|[AISTATS](https://proceedings.mlr.press/)|1997 -|False|C|29/09/2026|**{{ diffDate('2026-09-29') }}**|[03/05/2027](https://aistats.org/aistats2027/)|**{{ diffDate('2027-05-03') }}**|Montreal, Canada|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 
 ```mermaid

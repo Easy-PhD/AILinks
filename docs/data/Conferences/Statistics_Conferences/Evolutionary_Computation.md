@@ -3,13 +3,13 @@
 ## FOGA
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||03/05/2027|**{{ diffDate('2027-05-03') }}**|[01/09/2027](https://foga2027.dei.uc.pt/)|**{{ diffDate('2027-09-01') }}**|Coimbra, Portugal|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ## GECCO
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2027.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -33,7 +33,7 @@ xychart-beta
 ## GECCOC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -57,7 +57,7 @@ xychart-beta
 ## CEC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE Congress on Evolutionary Computation|Proc. IEEE Congr. Evol. Comput.|[CEC](https://ieeexplore.ieee.org/xpl/conhome/1000284/all-proceedings)|[1999 -](https://dblp.org/db/conf/cec/index.html)|False|C|28/02/2027|**{{ diffDate('2027-02-28') }}**|[25/07/2027](https://ieeecec.org/2027)|**{{ diffDate('2027-07-25') }}**|Edinburgh, Scotland, UK|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -81,7 +81,7 @@ xychart-beta
 ## EAIS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Evolving and Adaptive Intelligent Systems|Proc. IEEE Int Conf. Evol. Adapt. Intell. Syst.|[EAIS](https://ieeexplore.ieee.org/xpl/conhome/1800397/all-proceedings)|[2011 -](https://dblp.org/db/conf/eais/index.html)|False||15/03/2026|**{{ diffDate('2026-03-15') }}**|[21/09/2026](https://ai.dii.unipi.it/eais2026/)|**{{ diffDate('2026-09-21') }}**|Pisa, Italy|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -105,13 +105,13 @@ xychart-beta
 ## ANTS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|ANTS International Conference on Swarm Intelligence|ANTS Proc. Int. Conf. Swarm Intell.|ANTS|1998 -|False||TBD||[TBD](https://ants2026.org/)|||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
 
 ## EMO
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|International Conference on Evolutionary Multi-Criterion Optimization|Proc. Int. Conf. Evol. Multi-Criterion Optim.|[EMO](https://link.springer.com/conference/emo)|[2001 -](https://dblp.org/db/conf/emo/index.html)|False||12/10/2026|**{{ diffDate('2026-10-12') }}**|[05/04/2027](https://www.emo2027.org/)|**{{ diffDate('2027-04-05') }}**|Exeter, UK|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -135,7 +135,7 @@ xychart-beta
 ## EuroGP
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[European Conference on Genetic Programming](https://www.evostar.org/)|Proc. Eur. Conf. Genet. Program.|[EuroGP](https://link.springer.com/conference/eurogp)|[1998 -](https://dblp.org/db/conf/eurogp/index.html)|False||01/11/2026|**{{ diffDate('2026-11-01') }}**|[31/03/2027](https://www.evostar.org/2027/eurogp/)|**{{ diffDate('2027-03-31') }}**|Mainz, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -159,7 +159,7 @@ xychart-beta
 ## EvoAPPS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[International Conference on Applications of Evolutionary Computation](https://www.evostar.org/)|Proc. Int. Conf. Appl. Evol. Comput.|[EvoAPPS](https://link.springer.com/conference/evoapplications)|[2010 -](https://dblp.org/db/conf/evoapps/index.html)|False||01/11/2026|**{{ diffDate('2026-11-01') }}**|[31/03/2027](https://www.evostar.org/2027/evoapps/)|**{{ diffDate('2027-03-31') }}**|Mainz, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -183,7 +183,7 @@ xychart-beta
 ## EvoCOP
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[European Conference on Evolutionary Computation in Combinatorial Optimisation](https://www.evostar.org/)|Proc. Eur. Conf. Evol. Comput. Comb. Optim.|[EvoCOP](https://link.springer.com/conference/evocop)|[2004 -](https://dblp.org/db/conf/evocop/index.html)|False||01/11/2026|**{{ diffDate('2026-11-01') }}**|[31/03/2027](https://www.evostar.org/2027/evocop/)|**{{ diffDate('2027-03-31') }}**|Mainz, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -207,13 +207,13 @@ xychart-beta
 ## EvoLearn
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[International Conference on Evolutionary Computation and Learning](https://www.evostar.org/)|Proc. Int. Conf. Evol. Comput. Learn.|[EvoLearn](https://link.springer.com/conference/evolearn)|[2027 -](https://dblp.org/db/conf/evolearn/index.html)|False||01/11/2026|**{{ diffDate('2026-11-01') }}**|[31/03/2027](https://www.evostar.org/2027/evolearn/)|**{{ diffDate('2027-03-31') }}**|Mainz, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 
 ## EvoMUSART
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[International Conference on Artificial Intelligence in Music, Sound, Art and Design](https://www.evostar.org/)|Proc. Int. Conf. Artif. Intell. Music, Sound, Art and Design|[EvoMUSART](https://link.springer.com/conference/evomusart)|[2012 -](https://dblp.org/db/conf/evomusart/index.html)|False||01/11/2026|**{{ diffDate('2026-11-01') }}**|[31/03/2027](https://www.evostar.org/2027/evomusart/)|**{{ diffDate('2027-03-31') }}**|Mainz, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -237,7 +237,7 @@ xychart-beta
 ## ICSI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[International Conference on Swarm Intelligence](https://iasei.org/)|Proc. Int. Conf. Swarm Intell.|[ICSI](https://link.springer.com/conference/icsi)|[2010 -](https://dblp.org/db/conf/swarm/index.html)|False||28/02/2026|**{{ diffDate('2026-02-28') }}**|[17/07/2026](https://iasei.org/icsi2026/)|**{{ diffDate('2026-07-17') }}**|Beijing, China|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
 
 ```mermaid
@@ -261,13 +261,13 @@ xychart-beta
 ## IJCCI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|[International Joint Conference on Computational Intelligence](https://ijcci.scitevents.org/)|Proc. Int. Joint Conf. Comput. Intell.|[IJCCI](https://link.springer.com/conference/ijcci)|[2009 -](https://dblp.org/db/conf/ijcci/index.html)|False||19/05/2026|**{{ diffDate('2026-05-19') }}**|[28/10/2026](https://ijcci.scitevents.org/)|**{{ diffDate('2026-10-28') }}**|Angers, Frence|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ## PPSN
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[SPRINGER](https://www.springer.com/)|Parallel Problem Solving from Nature|Proc. Int. Conf. Parallel Probl. Solving Nat.|[PPSN](https://link.springer.com/conference/ppsn)|[1990 -](https://dblp.org/db/conf/ppsn/index.html)|False|B|TBD||TBD|||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid

@@ -5,7 +5,7 @@
 ## Artificial Intelligence
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[AAAI](https://www.aaai.org/)|[AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/conferences.php)|[Proc. AAAI Conf. Artif. Intell.](https://ojs.aaai.org/index.php/AAAI/about)|[AAAI](https://ojs.aaai.org/index.php/AAAI/issue/archive)|1980 -|True|A|21/07/2026|**{{ diffDate('2026-07-21') }}**|[16/02/2027](https://aaai.org/conference/aaai/aaai-27/)|**{{ diffDate('2027-02-16') }}**|Montréal, Canada|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
 |[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|25/02/2026|**{{ diffDate('2026-02-25') }}**|[17/08/2026](https://www.auai.org/uai2026/)|**{{ diffDate('2026-08-17') }}**|Amsterdam, Netherlands|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
 |OPEN|European Conference on Artificial Intelligence|Proc. Eur. Conf. Artif. Intell.|ECAI|1974 -|False|B|TBD||[02/10/2027](https://www.eetn.gr/ecai-2027/)|**{{ diffDate('2027-10-02') }}**|Athens (Greece)|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence)|
@@ -18,14 +18,14 @@
 ## Neural Networks
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|[European Symposium on Artificial Neural Networks](https://www.esann.org/)|Proc. Eur. Symp. Artif. Neural Netw.|ESANN|1993 -|False||18/11/2026|**{{ diffDate('2026-11-18') }}**|[21/04/2027](https://www.esann.org/)|**{{ diffDate('2027-04-21') }}**|Bruges, Belgium|[Neural Networks](https://www.google.com/search?q=Neural+Networks)|
 |[SPRINGER](https://www.springer.com/)|[International Conference on Artificial Neural Networks](https://e-nns.org/)|[Proc. Int. Conf. Artif. Neural Netw. Mach. Learn.](https://e-nns.org/)|[ICANN](https://link.springer.com/conference/icann)|[1991 -](https://dblp.org/db/conf/icann/index.html)|False|C|30/03/2026|**{{ diffDate('2026-03-30') }}**|[14/09/2026](https://e-nns.org/icann2026/)|**{{ diffDate('2026-09-14') }}**|Padua, Italy|[Neural Networks](https://www.google.com/search?q=Neural+Networks)|
 
 ## Machine Learning
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Machine Learning and Cybernetics](https://www.icmlc.com/)|Proc. IEEE Int. Conf. Mach. Learn. Cybern.|[ICMLC](https://ieeexplore.ieee.org/xpl/conhome/1000424/all-proceedings)|[2005 -](https://dblp.org/db/conf/icmlc/index.html)|False||04/04/2026|**{{ diffDate('2026-04-04') }}**|[12/07/2026](https://www.icmlc.com/)|**{{ diffDate('2026-07-12') }}**|Cagliari, Italy|[Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 |OPEN|[International Conference On Machine Learning](https://icml.cc)|Proc. Annu. Int. Conf. Mach. Learn.|[ICML](https://proceedings.mlr.press/)|1987 -|True|A|TBD||[01/07/2027](https://icml.cc/) Estimate|**{{ diffDate('2027-07-01') }}**|South America|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
 |[SPRINGER](https://www.springer.com/)|[International Conference on Evolutionary Computation and Learning](https://www.evostar.org/)|Proc. Int. Conf. Evol. Comput. Learn.|[EvoLearn](https://link.springer.com/conference/evolearn)|[2027 -](https://dblp.org/db/conf/evolearn/index.html)|False||01/11/2026|**{{ diffDate('2026-11-01') }}**|[31/03/2027](https://www.evostar.org/2027/evolearn/)|**{{ diffDate('2027-03-31') }}**|Mainz, Germany|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Machine Learning](https://www.google.com/search?q=Machine+Learning)|
@@ -33,14 +33,14 @@
 ## Swarm Intelligence
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |OPEN|ANTS International Conference on Swarm Intelligence|ANTS Proc. Int. Conf. Swarm Intell.|ANTS|1998 -|False||TBD||[TBD](https://ants2026.org/)|||[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
 |[SPRINGER](https://www.springer.com/)|[International Conference on Swarm Intelligence](https://iasei.org/)|Proc. Int. Conf. Swarm Intell.|[ICSI](https://link.springer.com/conference/icsi)|[2010 -](https://dblp.org/db/conf/swarm/index.html)|False||28/02/2026|**{{ diffDate('2026-02-28') }}**|[17/07/2026](https://iasei.org/icsi2026/)|**{{ diffDate('2026-07-17') }}**|Beijing, China|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation); [Swarm Intelligence](https://www.google.com/search?q=Swarm+Intelligence)|
 
 ## Evolutionary Computation
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||03/05/2027|**{{ diffDate('2027-05-03') }}**|[01/09/2027](https://foga2027.dei.uc.pt/)|**{{ diffDate('2027-09-01') }}**|Coimbra, Portugal|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2027.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
@@ -60,7 +60,7 @@
 ## Computational Intelligence
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[AAAI](https://www.aaai.org/)|[Symposium on Combinatorial Search](http://search-conference.org)|Proc. Symp. Comb. Search|[SoCS](https://ojs.aaai.org/index.php/SOCS/issue/archive)|2008 -|False||16/03/2026|**{{ diffDate('2026-03-16') }}**|[14/08/2026](https://socs26.search-conference.org/)|**{{ diffDate('2026-08-14') }}**|Bremerhaven, Germany|[Combinatorial Optimization](https://www.google.com/search?q=Combinatorial+Optimization); [Heuristic Search](https://www.google.com/search?q=Heuristic+Search)|
 |[ACM](https://www.acm.org/)|[ACM Symposium On Cloud Computing](https://acmsocc.org/)|Proc. Symp. Cloud Comput.|SoCC|2010 -|False|B|07/07/2025|**{{ diffDate('2025-07-07') }}**|[18/11/2026](https://acmsocc.org/2026/)|**{{ diffDate('2026-11-18') }}**|Singapore|[Cloud Computing](https://www.google.com/search?q=Cloud+Computing)|
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium Series on Computational Intelligence](https://ieee-ssci.org/)|Proc. IEEE Symp. Ser. Comput. Intell.|[SSCI](https://ieeexplore.ieee.org/xpl/conhome/1811304/all-proceedings)|[2007 -](https://dblp.org/db/conf/ssci/index.html)|False||10/08/2026|**{{ diffDate('2026-08-10') }}**|[14/02/2027](https://ieee-ssci.org/)|**{{ diffDate('2027-02-14') }}**|Queensland, Australia|[Computational Intelligence](https://www.google.com/search?q=Computational+Intelligence)|
@@ -69,13 +69,13 @@
 ## Computer Science
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE Symposium on Foundations of Computer Science](https://ieee-focs.org/)|Proc. IEEE Annu. Symp. Found. Comput. Sci.|[FOCS](https://ieeexplore.ieee.org/xpl/conhome/1000292/all-proceedings)|[1960 -](https://dblp.org/db/conf/focs/index.html)|True|A|01/04/2026|**{{ diffDate('2026-04-01') }}**|[08/11/2026](https://focs.computer.org/2026/)|**{{ diffDate('2026-11-08') }}**|Sydney, Australia|[Computer Science](https://www.google.com/search?q=Computer+Science)|
 |[IEEE](https://ieeexplore.ieee.org/)|IEEE International Conference on Systems, Man and Cybernetics|Proc. IEEE Int. Conf. Syst., Man, Cybern.|[SMC](https://ieeexplore.ieee.org/xpl/conhome/1000738/all-proceedings)|[1989 -](https://dblp.org/db/conf/smc/index.html)|False|C|22/03/2026|**{{ diffDate('2026-03-22') }}**|[04/10/2026](https://www.ieeesmc2026.org/)|**{{ diffDate('2026-10-04') }}**|Bellevue, WA, USA|[Computer Science](https://www.google.com/search?q=Computer+Science)|
 
 ## Planning and Scheduling
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[AAAI](https://www.aaai.org/)|[International Conference on Automated Planning and Scheduling](https://www.icaps-conference.org/)|[Proc. Int. Conf. Automat. Plan. Schedul.](https://www.icaps-conference.org/)|[ICAPS](https://ojs.aaai.org/index.php/ICAPS/issue/archive)|1991 -|False|B|07/12/2026|**{{ diffDate('2026-12-07') }}**|[27/06/2027](https://icaps27.icaps-conference.org/)|**{{ diffDate('2027-06-27') }}**|Columbia, SC, USA|[Planning and Scheduling](https://www.google.com/search?q=Planning+and+Scheduling)|
 

@@ -3,7 +3,7 @@
 ## KDD
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Knowledge Discovery And Data Mining](https://kdd.org)|[Proc. ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining](https://kdd.org/about)|[KDD](https://dlnext.acm.org/conference/kdd/proceedings)|1995 -|True|A|19/07/2026|**{{ diffDate('2026-07-19') }}**|[01/08/2027](https://kdd2027.kdd.org/)|**{{ diffDate('2027-08-01') }}**|San Jose, United States|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ```mermaid
@@ -27,6 +27,6 @@ xychart-beta
 ## SIGMOD
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Management of Data](https://sigmod.org/)|[Proc. ACM SIGMOD Int. Conf. Manag. Data](https://sigmod.org/about-sigmod/)|[SIGMOD](https://dl.acm.org/conference/mod/proceedings)|1975 -|True|A|17/10/2026|**{{ diffDate('2026-10-17') }}**|[13/06/2027](https://2026.sigmod.org/)|**{{ diffDate('2027-06-13') }}**|Huntington Beach, CA|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 

@@ -5,7 +5,7 @@
 ## AAMAS
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[International Conference on Autonomous Agents and Multiagent Systems](https://www.ifaamas.org/)|[Proc. Int. Conf. Auton. Agents Multiagent Syst.](https://www.ifaamas.org/)|[AAMAS](https://dl.acm.org/conference/aamas/proceedings)|2002 -|False|B|01/10/2026|**{{ diffDate('2026-10-01') }}**|[03/05/2027](https://warwick.ac.uk/fac/sci/dcs/aamas2027/)|**{{ diffDate('2027-05-03') }}**|Hanoi, Vietnam|[Multiagent Systems](https://www.google.com/search?q=Multiagent+Systems)|
 
 ```mermaid
@@ -29,13 +29,13 @@ xychart-beta
 ## FOGA
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM/SIGEVO Conference on Foundations of Genetic Algorithms](https://sig.sigevo.org/FOGAs)|Proc. ACM/SIGEVO Conf. Found. Genet. Algo.|[FOGA](https://dl.acm.org/conference/foga)|1990 -|False||03/05/2027|**{{ diffDate('2027-05-03') }}**|[01/09/2027](https://foga2027.dei.uc.pt/)|**{{ diffDate('2027-09-01') }}**|Coimbra, Portugal|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ## GECCO
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference](https://dl.acm.org/conference/gecco)|Proc. Genet. Evol. Comput. Conf.|[GECCO](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2027.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -59,7 +59,7 @@ xychart-beta
 ## GECCOC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[Genetic and Evolutionary Computation Conference Companion](https://dl.acm.org/conference/gecco)|Proc. Conf. Comp. Genet. Evol. Comput.|[GECCOC](https://dl.acm.org/conference/gecco)|1996 -|False|C|||[12/07/2027](https://gecco-2025.sigevo.org/HomePage)|**{{ diffDate('2027-07-12') }}**|Kraków, Poland|[Evolutionary Computation](https://www.google.com/search?q=Evolutionary+Computation)|
 
 ```mermaid
@@ -83,7 +83,7 @@ xychart-beta
 ## KDD
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Knowledge Discovery And Data Mining](https://kdd.org)|[Proc. ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining](https://kdd.org/about)|[KDD](https://dlnext.acm.org/conference/kdd/proceedings)|1995 -|True|A|19/07/2026|**{{ diffDate('2026-07-19') }}**|[01/08/2027](https://kdd2027.kdd.org/)|**{{ diffDate('2027-08-01') }}**|San Jose, United States|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ```mermaid
@@ -107,24 +107,24 @@ xychart-beta
 ## SIGMOD
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Management of Data](https://sigmod.org/)|[Proc. ACM SIGMOD Int. Conf. Manag. Data](https://sigmod.org/about-sigmod/)|[SIGMOD](https://dl.acm.org/conference/mod/proceedings)|1975 -|True|A|17/10/2026|**{{ diffDate('2026-10-17') }}**|[13/06/2027](https://2026.sigmod.org/)|**{{ diffDate('2027-06-13') }}**|Huntington Beach, CA|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ## STOC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM Symposium on Theory of Computing](https://sigact.org/articles/conferences.html)|[Proc. ACM Symp. Theor. Comput.](https://acm-stoc.org/)|[STOC](https://dl.acm.org/conference/stoc)|1969 -|True|A|02/11/2026|**{{ diffDate('2026-11-02') }}**|[06/06/2027](https://acm-stoc.org/stoc2027/)|**{{ diffDate('2027-06-06') }}**|Atlanta, Georgia, USA|[Computation Theory](https://www.google.com/search?q=Computation+Theory)|
 
 ## SoCC
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM Symposium On Cloud Computing](https://acmsocc.org/)|Proc. Symp. Cloud Comput.|SoCC|2010 -|False|B|07/07/2025|**{{ diffDate('2025-07-07') }}**|[18/11/2026](https://acmsocc.org/2026/)|**{{ diffDate('2026-11-18') }}**|Singapore|[Cloud Computing](https://www.google.com/search?q=Cloud+Computing)|
 
 ## UAI
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[Conference on Uncertainty in Artificial Intelligence](https://www.auai.org/)|Proc. Conf. Uncert. Artif. Intell.|[UAI](https://dl.acm.org/conference/uai)|1985 -|False|B|25/02/2026|**{{ diffDate('2026-02-25') }}**|[17/08/2026](https://www.auai.org/uai2026/)|**{{ diffDate('2026-08-17') }}**|Amsterdam, Netherlands|[Artificial Intelligence](https://www.google.com/search?q=Artificial+Intelligence); [Uncertainty](https://www.google.com/search?q=Uncertainty)|
 

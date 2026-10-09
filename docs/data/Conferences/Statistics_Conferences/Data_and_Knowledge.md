@@ -3,7 +3,7 @@
 ## KDD
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Knowledge Discovery And Data Mining](https://kdd.org)|[Proc. ACM SIGKDD Int. Conf. Knowl. Discovery Data Mining](https://kdd.org/about)|[KDD](https://dlnext.acm.org/conference/kdd/proceedings)|1995 -|True|A|19/07/2026|**{{ diffDate('2026-07-19') }}**|[01/08/2027](https://kdd2027.kdd.org/)|**{{ diffDate('2027-08-01') }}**|San Jose, United States|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ```mermaid
@@ -27,13 +27,13 @@ xychart-beta
 ## SIGMOD
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[ACM](https://www.acm.org/)|[ACM SIGKDD International Conference on Management of Data](https://sigmod.org/)|[Proc. ACM SIGMOD Int. Conf. Manag. Data](https://sigmod.org/about-sigmod/)|[SIGMOD](https://dl.acm.org/conference/mod/proceedings)|1975 -|True|A|17/10/2026|**{{ diffDate('2026-10-17') }}**|[13/06/2027](https://2026.sigmod.org/)|**{{ diffDate('2027-06-13') }}**|Huntington Beach, CA|[Data Mining](https://www.google.com/search?q=Data+Mining)|
 
 ## ICDE
 
 |Publishers|Full/Homepage|Abbr/About|Acronym/Archive|Period/DBLP|Top|CCF|Submission|Days Left|Main Conf.|Days Left|Location|Keywords/Google|
-|-         |-            |-         |-              |-          |-  |-  |-         |-        |          |-        |-       |-              |
+|-         |-            |-         |-              |-          |-  |-  |-         |-        |-         |-        |-       |-              |
 |[IEEE](https://ieeexplore.ieee.org/)|[IEEE International Conference on Data Engineering](https://ieee-icde.org/)|Proc. Int. Conf. Data. Eng.|[ICDE](https://ieeexplore.ieee.org/xpl/conhome/1000178/all-proceedings)|[1984 -](https://dblp.org/db/conf/icde/index.html)|True|A|11/11/2026|**{{ diffDate('2026-11-11') }}**|[17/05/2027](https://icde2027.github.io/)|**{{ diffDate('2027-05-17') }}**|Copenhagen, Denmark|[Data Engineering](https://www.google.com/search?q=Data+Engineering)|
 
 ```mermaid
