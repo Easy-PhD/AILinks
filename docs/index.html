@@ -87,8 +87,8 @@
 
         // Markdown
 
-        // HTML
         plugins: [
+          // === Load raw HTML files as page content ===
           function (hook, vm) {
             hook.beforeEach(function (content) {
               if (vm.route.file.endsWith(".html")) {
@@ -99,16 +99,49 @@
               return content;
             });
           },
+
+          // === Read timestamps from _updated.json and inject a banner ===
+          function (hook, vm) {
+            // Load the JSON only once (cache the promise across page navigations)
+            let mapPromise = null;
+            const loadMap = () => {
+              if (!mapPromise) {
+                mapPromise = fetch("_updated.json")
+                  .then((r) => (r.ok ? r.json() : {}))
+                  .catch(() => ({}));
+              }
+              return mapPromise;
+            };
+
+            hook.afterEach(function (html, next) {
+              loadMap().then((map) => {
+                // vm.route.file is the current markdown file, e.g. "README.md"
+                const file = vm.route.file;
+                const ts = map[file];
+
+                // No timestamp for this file — render as-is
+                if (!ts) return next(html);
+
+                // Format the ISO timestamp as "HH:MM DD/MM/YYYY"
+                const d = new Date(ts);
+                const pad = (n) => String(n).padStart(2, "0");
+                const formatted =
+                  `${pad(d.getHours())}:${pad(d.getMinutes())} ` +
+                  `${pad(d.getDate())}/${pad(d.getMonth() + 1)}/${d.getFullYear()}`;
+
+                // Build the "Last Modified" banner (right-aligned, gray, small)
+                const banner =
+                  `<div style="color:gray;font-size:14px;text-align:right">` +
+                  `Last Modified: ${formatted}</div>`;
+
+                // Prepend the banner to the rendered HTML (same effect as whereToPlace: "top")
+                next(banner + html);
+              });
+            });
+          },
         ],
 
         // Search
-
-        // Time
-        timeUpdater: {
-          text: "<div style='color:gray;font-size:14px;text-align:right'>Last Modified: {docsify-updated}</div>",
-          formatUpdated: "{HH}:{mm} {DD}/{MM}/{YYYY}",
-          whereToPlace: "top", // "top" or "bottom", default to "bottom"
-        },
 
         // LaTex
         latex: {
@@ -197,9 +230,6 @@
     <!-- --------- --------- --------- --------- --------- --------- --------- --------- --------- --------- -->
     <!-- Plugins -->
     <!-- https://docsify.js.org/#/awesome?id=plugins -->
-
-    <!-- Time -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-updated@1/src/time-updater.min.js"></script>
 
     <!-- LaTex -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-latex@0"></script>
