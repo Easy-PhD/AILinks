@@ -1,0 +1,36 @@
+name: Update file timestamps
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # FULL history — required for accurate per-file times
+
+      - name: Generate docs/_updated.json
+        working-directory: docs
+        run: |
+          chmod +x cf-build.sh
+          ./cf-build.sh
+
+      - name: Commit if changed
+        run: |
+          if [ -n "$(git status --porcelain docs/_updated.json)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add docs/_updated.json
+            git commit -m "chore: update docs/_updated.json [skip ci]"
+            git push
+          else
+            echo "No changes to docs/_updated.json"
+          fi
