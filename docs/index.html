@@ -14,10 +14,6 @@
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@5/dist/themes/core.min.css" />
     <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@5/dist/themes/addons/vue.min.css" />
 
-    <!-- TOC -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/light.min.css">
-    <link rel="stylesheet" href="./_css/light.css">
-
     <!-- MathJax -->
     <script>
       window.MathJax = {
@@ -31,6 +27,9 @@
 
     <!-- Markmap; Markdown-->
     <style>
+      :root {
+        --content-max-width: 80%;
+      }
       .markmap {
         width: 100%;
         height: 500px;
@@ -137,13 +136,6 @@
           language: "english",
         },
 
-        // TOC
-        toc: {
-          tocMaxLevel: 5,
-          target: 'h2, h3, h4, h5, h6',
-          ignoreHeaders: ['<!-- {docsify-ignore} -->', '<!-- {docsify-ignore-all} -->']
-        },
-
         // Vue
         vueGlobalOptions: {
           methods: {
@@ -237,9 +229,6 @@
 
     <!-- Count -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-count@1/dist/countable.min.js"></script>
-
-    <!-- TOC -->
-    <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1/dist/docsify-plugin-toc.min.js"></script>
 
     <!-- Pagination -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@latest/dist/docsify-pagination.min.js"></script>
